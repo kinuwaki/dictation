@@ -1,0 +1,5992 @@
+{
+  "level": "level3",
+  "title": "上級",
+  "total": 200,
+  "questions": [
+    {
+      "id": 1,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ the meeting? B: ______ ______ ______ ______ ______ ______ ______ conference room.",
+      "answer_text": "A: Have you heard anything about the meeting? B: I think it moved to the smaller conference room.",
+      "blanks": [
+        "Have",
+        "you",
+        "heard",
+        "anything",
+        "about",
+        "I",
+        "think",
+        "it",
+        "moved",
+        "to",
+        "the",
+        "smaller"
+      ],
+      "japanese": "A: 会議について何か聞いた？ B: 小さい方の会議室に変更になったと思うよ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 62",
+        "excerpt": "A: (Will) (you) (call) (me) (on) Thursday? B: I will be (out) (of) (town) (that) (day)."
+      }
+    },
+    {
+      "id": 2,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ lunch today? B: ______ ______ ______ ______ ______ trying that new Italian place.",
+      "answer_text": "A: Do you have plans for lunch today? B: I was actually thinking of trying that new Italian place.",
+      "blanks": [
+        "Do",
+        "you",
+        "have",
+        "plans",
+        "for",
+        "I",
+        "was",
+        "actually",
+        "thinking",
+        "of"
+      ],
+      "japanese": "A: 今日のランチは予定ある？ B: 実は新しいイタリア料理店に行ってみようと思ってたんだ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 63",
+        "excerpt": "A: (Why) (don't) (we) (drive) (out) to the ocean? B: (Sounds) (like) a good idea (to) (me)."
+      }
+    },
+    {
+      "id": 3,
+      "level": "level3",
+      "question_text": "A: Would you mind ______ ______ ______ ______ ______ ______? B: ______ ______ ______. ______ ______ ______ ______ ______.",
+      "answer_text": "A: Would you mind turning down the volume a little? B: Not at all. I'll do it right away.",
+      "blanks": [
+        "turning",
+        "down",
+        "the",
+        "volume",
+        "a",
+        "little",
+        "Not",
+        "at",
+        "all",
+        "I'll",
+        "do",
+        "it",
+        "right",
+        "away"
+      ],
+      "japanese": "A: 音量を少し下げていただけますか？ B: もちろんです。すぐに下げます。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 63",
+        "excerpt": "A: Would you mind (passing) (the) (salt) (and) (pepper)? B: (Here) (you) (are)."
+      }
+    },
+    {
+      "id": 4,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ get ______ ______ subway? B: ______, ______ ______ ______ ______ to the ______ exit.",
+      "answer_text": "A: Can you show me how to get to the subway? B: Sure, just follow the signs to the east exit.",
+      "blanks": [
+        "Can",
+        "you",
+        "show",
+        "me",
+        "how",
+        "to",
+        "to",
+        "the",
+        "Sure",
+        "just",
+        "follow",
+        "the",
+        "signs",
+        "east"
+      ],
+      "japanese": "A: 地下鉄への行き方を教えていただけますか？ B: もちろん、東口への案内標識に従って進んでください。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 71",
+        "excerpt": "A: Excuse me, (could) (you) (direct) (me) to (the) (nearest) (men's) (room)? B: The rest rooms (are) (located) on the second floor..."
+      }
+    },
+    {
+      "id": 5,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ this weekend? B: ______ ______ ______ ______ ______ ______ ______ hiking.",
+      "answer_text": "A: What are you planning to do this weekend? B: I was hoping to go somewhere for hiking.",
+      "blanks": [
+        "What",
+        "are",
+        "you",
+        "planning",
+        "to",
+        "do",
+        "I",
+        "was",
+        "hoping",
+        "to",
+        "go",
+        "somewhere",
+        "for"
+      ],
+      "japanese": "A: 今週末は何をする予定なの？ B: どこかにハイキングに行けたらと思ってるんだ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 65",
+        "excerpt": "A: (Was) (the) (party) (any) (good)? B: (Everyone) (seemed) (to) (have) a good time."
+      }
+    },
+    {
+      "id": 6,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ for dinner? B: ______ ______ ______ ______ ______ ______ the corner.",
+      "answer_text": "A: Have you got any recommendations for dinner? B: There is a great steakhouse around the corner.",
+      "blanks": [
+        "Have",
+        "you",
+        "got",
+        "any",
+        "recommendations",
+        "There",
+        "is",
+        "a",
+        "great",
+        "steakhouse",
+        "around"
+      ],
+      "japanese": "A: ディナーのおすすめはある？ B: 角を曲がったところに素晴らしいステーキハウスがあるよ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 76",
+        "excerpt": "A: (Wasn't) (that) (dinner) (terrible)? B: (I) (certainly) (won't) (be) (coming) (back) (to) this restaurant."
+      }
+    },
+    {
+      "id": 7,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ the project? B: ______ ______ ______ ______ , but ______ ______ ______ ______ ______ more time.",
+      "answer_text": "A: How are things going with the project? B: Pretty well so far, but we could use a little more time.",
+      "blanks": [
+        "How",
+        "are",
+        "things",
+        "going",
+        "with",
+        "Pretty",
+        "well",
+        "so",
+        "far",
+        "we",
+        "could",
+        "use",
+        "a",
+        "little"
+      ],
+      "japanese": "A: プロジェクトの調子はどう？ B: 今のところなかなか順調だけど、もう少し時間があるといいな。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 72",
+        "excerpt": "A: Have you finished (writing) (those) (reports) yet? B: (They) (are) (almost) (done)."
+      }
+    },
+    {
+      "id": 8,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ late again? B: I ______ ______ ______ ______ ______ missed the last train.",
+      "answer_text": "A: Did you end up staying out late again? B: I am afraid so because I missed the last train.",
+      "blanks": [
+        "Did",
+        "you",
+        "end",
+        "up",
+        "staying",
+        "out",
+        "am",
+        "afraid",
+        "so",
+        "because",
+        "I"
+      ],
+      "japanese": "A: また遅くまで外にいたの？ B: 残念ながらそうなんだ、終電を逃してしまったから。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 70",
+        "excerpt": "A: You are (putting) (off) your trip again, aren't you? B: I'm afraid (I) (have) (no) (choice)."
+      }
+    },
+    {
+      "id": 9,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ ______ the concert? B: ______ ______ ______ to ______ ______ ______ ______.",
+      "answer_text": "A: Would you like to come with us to the concert? B: I would love to if I am free.",
+      "blanks": [
+        "Would",
+        "you",
+        "like",
+        "to",
+        "come",
+        "with",
+        "us",
+        "to",
+        "I",
+        "would",
+        "love",
+        "if",
+        "I",
+        "am",
+        "free"
+      ],
+      "japanese": "A: 私たちと一緒にコンサートに来ない？ B: 時間があればぜひ行きたいな。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 69",
+        "excerpt": "A: Would you like (a) (piece) (of) (cheesecake) (for) (dessert)? B: It sounds (tempting), but (I) (think) (I'll) (pass)."
+      }
+    },
+    {
+      "id": 10,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ at the office? B: ______ ______ ______ ______ ______ since Monday.",
+      "answer_text": "A: Have you seen the new manager at the office? B: Yes, she has been around since Monday.",
+      "blanks": [
+        "Have",
+        "you",
+        "seen",
+        "the",
+        "new",
+        "manager",
+        "Yes",
+        "she",
+        "has",
+        "been",
+        "around"
+      ],
+      "japanese": "A: 会社で新しいマネージャーを見かけた？ B: うん、月曜日からずっといるよ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 80",
+        "excerpt": "A: How long (have) (you) (been) (with) (the) (company) now? B: (No) (more) (than) (half) (a) (year)."
+      }
+    },
+    {
+      "id": 11,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ the store closes? B: ______ ______ ______ ______ ______ at nine.",
+      "answer_text": "A: Do you happen to know what time the store closes? B: I believe it shuts down at nine.",
+      "blanks": [
+        "Do",
+        "you",
+        "happen",
+        "to",
+        "know",
+        "what",
+        "time",
+        "I",
+        "believe",
+        "it",
+        "shuts",
+        "down"
+      ],
+      "japanese": "A: お店が何時に閉まるかたまたま知ってる？ B: 9時に閉まると思うよ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 66",
+        "excerpt": "A: Has (the) (delivery) (person) (been) (by) today? B: (Not) (yet), but (I) (think) (he'll) (be) here soon."
+      }
+    },
+    {
+      "id": 12,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ the deadline? B: ______ ______ ______ ______ ______ ______ ______ by Friday.",
+      "answer_text": "A: Is there any chance of extending the deadline? B: I will see what I can do by Friday.",
+      "blanks": [
+        "Is",
+        "there",
+        "any",
+        "chance",
+        "of",
+        "extending",
+        "I",
+        "will",
+        "see",
+        "what",
+        "I",
+        "can",
+        "do"
+      ],
+      "japanese": "A: 締め切りを延ばす可能性はある？ B: 金曜日までにできることを考えてみるよ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 79",
+        "excerpt": "A: (Did) (you) (get) (a) (chance) (to) (look) (over) my report? B: I (meant) (to), but (there) (just) (hasn't) (been) any time."
+      }
+    },
+    {
+      "id": 13,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ ______ ______ dinner ______ B: ______ ______, ______ ______ ______ to ______ ______.",
+      "answer_text": "A: Are you in the mood for anything special for dinner tonight? B: Not really, I am happy to go anywhere.",
+      "blanks": [
+        "Are",
+        "you",
+        "in",
+        "the",
+        "mood",
+        "for",
+        "anything",
+        "special",
+        "for",
+        "tonight",
+        "Not",
+        "really",
+        "I",
+        "am",
+        "happy",
+        "go",
+        "anywhere"
+      ],
+      "japanese": "A: 今夜のディナーに何か食べたいものある？ B: 特にないよ、どこでも大丈夫だよ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 64",
+        "excerpt": "A: (Why) (don't) (we) (drive) (out) to the ocean? B: (Sounds) (like) a good idea (to) (me)."
+      }
+    },
+    {
+      "id": 14,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ so ______ B: ______ ______ ______ ______ a ______ ______ ______ the gym gets busy.",
+      "answer_text": "A: What made you decide to come in so early? B: I wanted to get a workout in before the gym gets busy.",
+      "blanks": [
+        "What",
+        "made",
+        "you",
+        "decide",
+        "to",
+        "come",
+        "in",
+        "early",
+        "I",
+        "wanted",
+        "to",
+        "get",
+        "workout",
+        "in",
+        "before"
+      ],
+      "japanese": "A: なんでそんなに早く来ることにしたの？ B: ジムが混む前にトレーニングを済ませたかったんだ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 77",
+        "excerpt": "A: Don't you get tired (of) (always) (being) (on) (the) (road)? B: (Not) (at) (all). I like (traveling)..."
+      }
+    },
+    {
+      "id": 15,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ film? B: ______ ______ ______ ______, ______ the ______ ______ ______ ______ ______.",
+      "answer_text": "A: What did you think of the film? B: Honestly it was okay, but the ending felt a bit rushed.",
+      "blanks": [
+        "What",
+        "did",
+        "you",
+        "think",
+        "of",
+        "the",
+        "Honestly",
+        "it",
+        "was",
+        "okay",
+        "but",
+        "ending",
+        "felt",
+        "a",
+        "bit",
+        "rushed"
+      ],
+      "japanese": "A: その映画、どう思った？ B: 正直まあまあだったけど、結末が少し急ぎ足な感じがしたな。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 68",
+        "excerpt": "A: That was (the) (best) (movie) (I've) (seen) (in) (a) (long) (time). B: Personally, I thought it was (a) (bit) (sentimental)."
+      }
+    },
+    {
+      "id": 16,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ out of ink? B: ______ ______ ______ ______ ______ ______ ______ on your desk.",
+      "answer_text": "A: Did you realize the printer has run out of ink? B: There should be a spare cartridge sitting on your desk.",
+      "blanks": [
+        "Did",
+        "you",
+        "realize",
+        "the",
+        "printer",
+        "has",
+        "run",
+        "There",
+        "should",
+        "be",
+        "a",
+        "spare",
+        "cartridge",
+        "sitting"
+      ],
+      "japanese": "A: プリンターのインクが切れているの気づいた？ B: 予備のカートリッジがあなたのデスクの上にあるはずだよ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 81",
+        "excerpt": "A: Are you sure (there'll) (be) (someone) (there) (to) (meet) (us)? B: They (promised) (there) (would) (be)."
+      }
+    },
+    {
+      "id": 17,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ ______ ______ ______ next month? B: ______ ______ ______ ______ ______ ______ ______ the fifteenth.",
+      "answer_text": "A: When are you planning to move to your new apartment next month? B: We are aiming to be in by the fifteenth.",
+      "blanks": [
+        "When",
+        "are",
+        "you",
+        "planning",
+        "to",
+        "move",
+        "to",
+        "your",
+        "new",
+        "apartment",
+        "We",
+        "are",
+        "aiming",
+        "to",
+        "be",
+        "in",
+        "by"
+      ],
+      "japanese": "A: 来月、新しいアパートにいつ引っ越す予定なの？ B: 15日までに入居できるように目指してるよ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 79",
+        "excerpt": "A: When (do) (I) (have) (to) (pay) (this) (bill)? B: Anytime (after) (the) (fifteenth) (of) (the) (month)."
+      }
+    },
+    {
+      "id": 18,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ ______ ______ the package? B: ______ ______ ______ ______ ______ by tomorrow morning.",
+      "answer_text": "A: Do you know when they are going to deliver the package? B: They said it should arrive by tomorrow morning.",
+      "blanks": [
+        "Do",
+        "you",
+        "know",
+        "when",
+        "they",
+        "are",
+        "going",
+        "to",
+        "deliver",
+        "They",
+        "said",
+        "it",
+        "should",
+        "arrive"
+      ],
+      "japanese": "A: 荷物をいつ届けてくれるか知ってる？ B: 明日の朝までには届くって言ってたよ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 74",
+        "excerpt": "A: Has (the) (delivery) (person) (been) (by) today? B: (Not) (yet), but (I) (think) (he'll) (be) here soon."
+      }
+    },
+    {
+      "id": 19,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ to ______ ______ the ______ B: ______ ______ ______ about ten minutes on ______.",
+      "answer_text": "A: How long does it take to walk to the station? B: I would say about ten minutes on foot.",
+      "blanks": [
+        "How",
+        "long",
+        "does",
+        "it",
+        "take",
+        "walk",
+        "to",
+        "station",
+        "I",
+        "would",
+        "say",
+        "foot"
+      ],
+      "japanese": "A: 駅まで歩いてどれくらいかかる？ B: 歩いて10分くらいだと思うよ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 75",
+        "excerpt": "A: (How) (many) (stops) (is) (it) to Shinjuku Station? B: I think (the) (station) (after) (this)."
+      }
+    },
+    {
+      "id": 20,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ ______ ______ ______ ______ night? B: ______ ______ ______ ______, ______ a ______ ______ ______ ______ ______.",
+      "answer_text": "A: Did you manage to finish everything you needed to do last night? B: Most of it yes, but a few things still need attention.",
+      "blanks": [
+        "Did",
+        "you",
+        "manage",
+        "to",
+        "finish",
+        "everything",
+        "you",
+        "needed",
+        "to",
+        "do",
+        "last",
+        "Most",
+        "of",
+        "it",
+        "yes",
+        "but",
+        "few",
+        "things",
+        "still",
+        "need",
+        "attention"
+      ],
+      "japanese": "A: 昨夜、やるべきことは全部終わらせられた？ B: ほとんどはね、でもまだいくつか対応が必要なものがあるんだ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 83",
+        "excerpt": "A: I thought (you) (only) (needed) one chair. B: Yes, but they were selling (two) (for) (the) (price) (of) (one), and I couldn't (pass) (it) (up)."
+      }
+    },
+    {
+      "id": 21,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ for the holiday? B: ______ ______ ______ ______ ______ my sister in Osaka.",
+      "answer_text": "A: Do you have any plans for the holiday? B: I am going to visit my sister in Osaka.",
+      "blanks": [
+        "Do",
+        "you",
+        "have",
+        "any",
+        "plans",
+        "I",
+        "am",
+        "going",
+        "to",
+        "visit"
+      ],
+      "japanese": "A: 休日に何か予定はある？ B: 大阪の姉のところに行くつもりなんだ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 62",
+        "excerpt": "A: (Will) (you) (call) (me) (on) Thursday? B: I will be (out) (of) (town) (that) (day)."
+      }
+    },
+    {
+      "id": 22,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ the report? B: ______ ______ ______ ______ ______ have it ______ ______ end of the day.",
+      "answer_text": "A: Could you take another look at the report? B: I should be able to have it done by end of the day.",
+      "blanks": [
+        "Could",
+        "you",
+        "take",
+        "another",
+        "look",
+        "at",
+        "I",
+        "should",
+        "be",
+        "able",
+        "to",
+        "done",
+        "by"
+      ],
+      "japanese": "A: レポートをもう一度見ていただけますか？ B: 今日中には仕上げられると思います。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 72",
+        "excerpt": "A: Have you finished (writing) (those) (reports) yet? B: (They) (are) (almost) (done)."
+      }
+    },
+    {
+      "id": 23,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ the gym lately? B: ______ ______ ______ ______ ______ ______ ______ three times a week.",
+      "answer_text": "A: Have you been going to the gym lately? B: I have been trying to go about three times a week.",
+      "blanks": [
+        "Have",
+        "you",
+        "been",
+        "going",
+        "to",
+        "I",
+        "have",
+        "been",
+        "trying",
+        "to",
+        "go",
+        "about"
+      ],
+      "japanese": "A: 最近ジムに行ってる？ B: 週に3回くらい行くようにしてるんだ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 68",
+        "excerpt": "A: You are looking (awfully) (healthy) (lately). B: I have been (on) (a) (diet), (and) (I) (started) (jogging) last week."
+      }
+    },
+    {
+      "id": 24,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ the ______ dinner? B: ______ ______ ______ a ______ ______, ______ ______ ______ ______ ______ on time.",
+      "answer_text": "A: Were you able to make it to the team dinner? B: I got there a bit late, but I managed to arrive on time.",
+      "blanks": [
+        "Were",
+        "you",
+        "able",
+        "to",
+        "make",
+        "it",
+        "to",
+        "team",
+        "I",
+        "got",
+        "there",
+        "bit",
+        "late",
+        "but",
+        "I",
+        "managed",
+        "to",
+        "arrive"
+      ],
+      "japanese": "A: チームディナーには間に合えた？ B: 少し遅くなったけど、なんとか時間通りに着いたよ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 76",
+        "excerpt": "A: (Haven't) (we) (met) (somewhere) before? B: (Perhaps) (at) (the) (conference) last year."
+      }
+    },
+    {
+      "id": 25,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ the new employee? B: ______ ______ ______ ______ ______, ______ ______ a fast learner.",
+      "answer_text": "A: What do you think of the new employee? B: From what I can tell, she is a fast learner.",
+      "blanks": [
+        "What",
+        "do",
+        "you",
+        "think",
+        "of",
+        "From",
+        "what",
+        "I",
+        "can",
+        "tell",
+        "she",
+        "is"
+      ],
+      "japanese": "A: 新しい社員のことどう思う？ B: 見た限りでは、覚えが早そうだよ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 80",
+        "excerpt": "A: (Which) (of) (these) (cameras) would you recommend? B: I think (they) (are) (all) (about) the same."
+      }
+    },
+    {
+      "id": 26,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ tonight? B: ______ ______ ______ ______ ______ a movie at home.",
+      "answer_text": "A: Is there anything you want to do tonight? B: I was thinking of watching a movie at home.",
+      "blanks": [
+        "Is",
+        "there",
+        "anything",
+        "you",
+        "want",
+        "to",
+        "do",
+        "I",
+        "was",
+        "thinking",
+        "of",
+        "watching"
+      ],
+      "japanese": "A: 今夜何かしたいことある？ B: 家で映画を見ようかと思ってたんだ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 63",
+        "excerpt": "A: (Why) (don't) (we) (drive) (out) to the ocean? B: (Sounds) (like) a good idea (to) (me)."
+      }
+    },
+    {
+      "id": 27,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ this flight? B: ______ ______ ______ ______ ______ ______ ______ Tokyo.",
+      "answer_text": "A: Where are you headed on this flight? B: I am on my way back to Tokyo.",
+      "blanks": [
+        "Where",
+        "are",
+        "you",
+        "headed",
+        "on",
+        "I",
+        "am",
+        "on",
+        "my",
+        "way",
+        "back",
+        "to"
+      ],
+      "japanese": "A: この便でどちらへ行かれるんですか？ B: 東京に戻るところです。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 66",
+        "excerpt": "A: (Have) (you) (ever) (visited) France? B: No, (but) (I) (hope) (to) (go) (there) (soon)."
+      }
+    },
+    {
+      "id": 28,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ the ______ ______ ______ ______ B: ______ ______ ______ ______ we need ______ get approval first.",
+      "answer_text": "A: Has anyone brought up the issue with the budget? B: I believe someone mentioned we need to get approval first.",
+      "blanks": [
+        "Has",
+        "anyone",
+        "brought",
+        "up",
+        "issue",
+        "with",
+        "the",
+        "budget",
+        "I",
+        "believe",
+        "someone",
+        "mentioned",
+        "to"
+      ],
+      "japanese": "A: 予算の問題について誰か話し出した？ B: まず承認を得る必要があると誰かが言っていたと思うよ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 67",
+        "excerpt": "A: (Are) (all) (the) (attendants) in the conference room? B: Yes, (everyone) (but) (the) (president)."
+      }
+    },
+    {
+      "id": 29,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ parking? B: ______ ______ ______ ______ ______ the second basement level.",
+      "answer_text": "A: Do you know where I can find parking? B: There should be spaces on the second basement level.",
+      "blanks": [
+        "Do",
+        "you",
+        "know",
+        "where",
+        "I",
+        "can",
+        "find",
+        "There",
+        "should",
+        "be",
+        "spaces",
+        "on"
+      ],
+      "japanese": "A: どこに駐車できるか知ってる？ B: 地下2階にスペースがあるはずだよ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 71",
+        "excerpt": "A: Excuse me, (could) (you) (direct) (me) to (the) (nearest) (men's) (room)? B: The rest rooms (are) (located) on the second floor."
+      }
+    },
+    {
+      "id": 30,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ ______ ______ ______ the other day? B: ______ ______ ______ ______ ______ in town.",
+      "answer_text": "A: Did you get to catch up with your old friend the other day? B: We ended up walking around in town.",
+      "blanks": [
+        "Did",
+        "you",
+        "get",
+        "to",
+        "catch",
+        "up",
+        "with",
+        "your",
+        "old",
+        "friend",
+        "We",
+        "ended",
+        "up",
+        "walking",
+        "around"
+      ],
+      "japanese": "A: 先日、旧友と会えた？ B: 街をぶらぶらしたんだ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 76",
+        "excerpt": "A: (Wasn't) (that) (dinner) (terrible)? B: (I) (certainly) (won't) (be) (coming) (back) (to) this restaurant."
+      }
+    },
+    {
+      "id": 31,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ the schedule change? B: ______ ______ ______ out ______ ______ this morning.",
+      "answer_text": "A: Has anyone let you know about the schedule change? B: I just found out about it this morning.",
+      "blanks": [
+        "Has",
+        "anyone",
+        "let",
+        "you",
+        "know",
+        "about",
+        "I",
+        "just",
+        "found",
+        "about",
+        "it"
+      ],
+      "japanese": "A: スケジュール変更について誰かから連絡あった？ B: 今朝知ったばかりなんだ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 74",
+        "excerpt": "A: (Did) (you) (hear) (about) (that) (terrible) accident? B: (I) (read) (about) (it) (in) the newspaper."
+      }
+    },
+    {
+      "id": 32,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ a refund on this item? B: ______ ______, ______ ______ ______ ______ ______ your receipt.",
+      "answer_text": "A: Would it be possible to get a refund on this item? B: Of course, as long as you have your receipt.",
+      "blanks": [
+        "Would",
+        "it",
+        "be",
+        "possible",
+        "to",
+        "get",
+        "Of",
+        "course",
+        "as",
+        "long",
+        "as",
+        "you",
+        "have"
+      ],
+      "japanese": "A: この商品の返金は可能でしょうか？ B: もちろん、レシートがあれば大丈夫です。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 69",
+        "excerpt": "A: I'd like (two) (tickets) (for) (the) (two) (o'clock) (show). B: I am afraid (all) (the) (shows) (for) (today) (have) (been) (sold) (out)."
+      }
+    },
+    {
+      "id": 33,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ ______ so early. B: ______ ______ ______ ______ ______ ______ ______ ______ conference call.",
+      "answer_text": "A: I did not expect to see you here so early. B: I had to come in for an important conference call.",
+      "blanks": [
+        "I",
+        "did",
+        "not",
+        "expect",
+        "to",
+        "see",
+        "you",
+        "here",
+        "I",
+        "had",
+        "to",
+        "come",
+        "in",
+        "for",
+        "an",
+        "important"
+      ],
+      "japanese": "A: こんなに早くここで会うとは思わなかった。 B: 重要な電話会議のために来なければならなかったんだ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 81",
+        "excerpt": "A: Are you sure (there'll) (be) (someone) (there) (to) (meet) (us)? B: They (promised) (there) (would) (be)."
+      }
+    },
+    {
+      "id": 34,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ this afternoon? B: ______ ______ ______ ______ ______ ______ ______ ______ the dry cleaner.",
+      "answer_text": "A: Are you doing anything special this afternoon? B: I need to pick up my coat from the dry cleaner.",
+      "blanks": [
+        "Are",
+        "you",
+        "doing",
+        "anything",
+        "special",
+        "I",
+        "need",
+        "to",
+        "pick",
+        "up",
+        "my",
+        "coat",
+        "from"
+      ],
+      "japanese": "A: 今日の午後は何か特別なことある？ B: クリーニング屋にコートを取りに行かないといけないんだ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 70",
+        "excerpt": "A: (Aren't) (you) (having) (a) (sale) (on) summer clothing? B: I'm sorry. (The) (sale) (doesn't) (start) (until) tomorrow."
+      }
+    },
+    {
+      "id": 35,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ ______ neighborhood? B: ______ ______ ______ ______ ______ ______ a few years now.",
+      "answer_text": "A: How long have you been living in the neighborhood? B: I have been here for about a few years now.",
+      "blanks": [
+        "How",
+        "long",
+        "have",
+        "you",
+        "been",
+        "living",
+        "in",
+        "the",
+        "I",
+        "have",
+        "been",
+        "here",
+        "for",
+        "about"
+      ],
+      "japanese": "A: このあたりにはどれくらい住んでいるの？ B: もう数年になるかな。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 80",
+        "excerpt": "A: How long (have) (you) (been) (with) (the) (company) now? B: (No) (more) (than) (half) (a) (year)."
+      }
+    },
+    {
+      "id": 36,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ the ______ ______ ______ office? B: ______, ______ ______ ______ ______ ______ the coffee is great.",
+      "answer_text": "A: Have you ever stopped by the café near the office? B: Yes, and I have to say the coffee is great.",
+      "blanks": [
+        "Have",
+        "you",
+        "ever",
+        "stopped",
+        "by",
+        "café",
+        "near",
+        "the",
+        "Yes",
+        "and",
+        "I",
+        "have",
+        "to",
+        "say"
+      ],
+      "japanese": "A: オフィス近くのカフェに立ち寄ったことある？ B: うん、コーヒーが本当においしいよ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 82",
+        "excerpt": "A: Why don't we go see (that) (new) (science) (fiction) (film)? B: Oh yes, I've been (wanting) (to) (see) (it) (ever) (since) I read the book."
+      }
+    },
+    {
+      "id": 37,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ on the ______ B: ______ a ______, ______ ______ ______ standing room only.",
+      "answer_text": "A: Were you able to get a seat on the train? B: Not a chance, it was completely standing room only.",
+      "blanks": [
+        "Were",
+        "you",
+        "able",
+        "to",
+        "get",
+        "a",
+        "seat",
+        "train",
+        "Not",
+        "chance",
+        "it",
+        "was",
+        "completely"
+      ],
+      "japanese": "A: 電車で座れた？ B: 全然無理で、完全に立ち席だけだったよ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 86",
+        "excerpt": "A: (Where) (have) (you) (been)? The meeting started (half) (an) (hour) (ago)! B: Sorry. I gave myself (two) (hours) (to) (get) (here) but (I) (got) (caught) (in) (traffic)."
+      }
+    },
+    {
+      "id": 38,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ the children? B: ______ ______ ______ ______ ______ ______ ______ ______ the park after school.",
+      "answer_text": "A: Do you have someone to look after the children? B: My husband is going to take them to the park after school.",
+      "blanks": [
+        "Do",
+        "you",
+        "have",
+        "someone",
+        "to",
+        "look",
+        "after",
+        "My",
+        "husband",
+        "is",
+        "going",
+        "to",
+        "take",
+        "them",
+        "to"
+      ],
+      "japanese": "A: 子供たちの世話をしてくれる人はいる？ B: 夫が放課後に公園へ連れて行く予定なんだ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 67",
+        "excerpt": "A: (Have) (you) (got) (plans) for this weekend? B: (I) (promised) (my) (kids) (I'd) (take) (them) (to) the amusement park."
+      }
+    },
+    {
+      "id": 39,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ seat near the window? B: ______ ______ ______, ______ ______ ______ ______ ______ ______ available.",
+      "answer_text": "A: Would it be possible to have a seat near the window? B: I will check, but there may not be any available.",
+      "blanks": [
+        "Would",
+        "it",
+        "be",
+        "possible",
+        "to",
+        "have",
+        "a",
+        "I",
+        "will",
+        "check",
+        "but",
+        "there",
+        "may",
+        "not",
+        "be",
+        "any"
+      ],
+      "japanese": "A: 窓際の席にしていただくことは可能ですか？ B: 確認しますが、空きがないかもしれません。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 75",
+        "excerpt": "A: I would like (to) (book) (a) (table) (for) (eight) (o'clock). B: (Certainly). How many (in) (your) (party)?"
+      }
+    },
+    {
+      "id": 40,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ ______ ______ ______ the party? B: ______ ______ ______ a ______ ______ ______, ______ ______ ______ a bit noisy.",
+      "answer_text": "A: Did you get a chance to talk to anyone at the party? B: I spoke to a couple of people, but it was a bit noisy.",
+      "blanks": [
+        "Did",
+        "you",
+        "get",
+        "a",
+        "chance",
+        "to",
+        "talk",
+        "to",
+        "anyone",
+        "at",
+        "I",
+        "spoke",
+        "to",
+        "couple",
+        "of",
+        "people",
+        "but",
+        "it",
+        "was"
+      ],
+      "japanese": "A: パーティーで誰かと話せた？ B: 何人かと話したけど、少し騒がしかったよ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 77",
+        "excerpt": "A: Don't you get tired (of) (always) (being) (on) (the) (road)? B: (Not) (at) (all). I like (traveling) and (thanks) (to) (the) (job), I get to see many places."
+      }
+    },
+    {
+      "id": 41,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ for the weekend? B: ______ ______ ______ ______ ______ a road trip up north.",
+      "answer_text": "A: What do you have planned for the weekend? B: We are thinking of taking a road trip up north.",
+      "blanks": [
+        "What",
+        "do",
+        "you",
+        "have",
+        "planned",
+        "We",
+        "are",
+        "thinking",
+        "of",
+        "taking"
+      ],
+      "japanese": "A: 週末は何か予定があるの？ B: 北の方にドライブ旅行に行こうかと思っているんだ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 62",
+        "excerpt": "A: (Will) (you) (call) (me) (on) Thursday? B: I will be (out) (of) (town) (that) (day)."
+      }
+    },
+    {
+      "id": 42,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ the dry cleaning? B: ______ ______ ______, ______ ______ ______ ______ on the way home.",
+      "answer_text": "A: Would you mind picking up the dry cleaning? B: Not at all, I will stop by on the way home.",
+      "blanks": [
+        "Would",
+        "you",
+        "mind",
+        "picking",
+        "up",
+        "Not",
+        "at",
+        "all",
+        "I",
+        "will",
+        "stop",
+        "by"
+      ],
+      "japanese": "A: クリーニングを取りに行ってくれない？ B: もちろん、帰り道に寄っていくよ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 63",
+        "excerpt": "A: Would you mind (passing) (the) (salt) (and) (pepper)? B: (Here) (you) (are)."
+      }
+    },
+    {
+      "id": 43,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ apartment? B: ______ ______ ______ ______ it's a little small, but the ______ ______ ______ ______.",
+      "answer_text": "A: What do you think about renting the apartment? B: I have to say it's a little small, but the location seems really good.",
+      "blanks": [
+        "What",
+        "do",
+        "you",
+        "think",
+        "about",
+        "renting",
+        "the",
+        "I",
+        "have",
+        "to",
+        "say",
+        "location",
+        "seems",
+        "really",
+        "good"
+      ],
+      "japanese": "A: そのアパートを借りることについてどう思う？ B: 少し狭いとは思うけど、立地はすごくいい感じだね。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 63",
+        "excerpt": "A: (Why) (don't) (we) (drive) (out) to the ocean? B: (Sounds) (like) a good idea (to) (me)."
+      }
+    },
+    {
+      "id": 44,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ this luggage? B: ______ ______ ______, but ______ ______ ______ ______ ______ with the other bag.",
+      "answer_text": "A: Can you help me carry this luggage? B: Sure I can, but you will need to deal with the other bag.",
+      "blanks": [
+        "Can",
+        "you",
+        "help",
+        "me",
+        "carry",
+        "Sure",
+        "I",
+        "can",
+        "you",
+        "will",
+        "need",
+        "to",
+        "deal"
+      ],
+      "japanese": "A: この荷物を運ぶのを手伝ってくれる？ B: もちろん、でも他のバッグは自分で何とかしてね。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 64",
+        "excerpt": "A: (Can) (I) (offer) (you) (a) (hand) (with) this suitcase? B: (I) (can) (manage) (by) (myself), thank you."
+      }
+    },
+    {
+      "id": 45,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ the train delay? B: ______ ______ ______ ______ ______ ______ at least forty minutes.",
+      "answer_text": "A: Did you hear anything about the train delay? B: They said we could be waiting at least forty minutes.",
+      "blanks": [
+        "Did",
+        "you",
+        "hear",
+        "anything",
+        "about",
+        "They",
+        "said",
+        "we",
+        "could",
+        "be",
+        "waiting"
+      ],
+      "japanese": "A: 電車の遅延について何か聞いた？ B: 少なくとも40分は待つことになりそうだって。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 74",
+        "excerpt": "A: (Did) (you) (hear) (about) (that) (terrible) accident? B: (I) (read) (about) (it) (in) the newspaper."
+      }
+    },
+    {
+      "id": 46,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ from college? B: ______ ______ ______ ______ ______ ______ ______ ______ a ______ last spring.",
+      "answer_text": "A: Have you been in touch with anyone from college? B: Not really, actually. I ran into Sarah at a reunion last spring.",
+      "blanks": [
+        "Have",
+        "you",
+        "been",
+        "in",
+        "touch",
+        "with",
+        "anyone",
+        "Not",
+        "really",
+        "actually",
+        "I",
+        "ran",
+        "into",
+        "Sarah",
+        "at",
+        "reunion"
+      ],
+      "japanese": "A: 大学時代の誰かと連絡を取り合ってる？ B: 実はあまりなくて。去年の春の同窓会でサラに偶然会ったくらいだよ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 76",
+        "excerpt": "A: (Haven't) (we) (met) (somewhere) before? B: (Perhaps) (at) (the) (conference) last year."
+      }
+    },
+    {
+      "id": 47,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ ______ to the event? B: ______ ______ ______ ______ ______ ______ or so.",
+      "answer_text": "A: Do you know how many people are coming to the event? B: I would say somewhere around fifty or so.",
+      "blanks": [
+        "Do",
+        "you",
+        "know",
+        "how",
+        "many",
+        "people",
+        "are",
+        "coming",
+        "I",
+        "would",
+        "say",
+        "somewhere",
+        "around",
+        "fifty"
+      ],
+      "japanese": "A: イベントには何人くらい来るか知ってる？ B: 50人前後じゃないかな。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 75",
+        "excerpt": "A: (How) (many) (stops) (is) (it) to Shinjuku Station? B: I think (the) (station) (after) (this)."
+      }
+    },
+    {
+      "id": 48,
+      "level": "level3",
+      "question_text": "A: I'm sorry, ______ ______ ______ ______ ______ ______ ______ ______ here? B: ______ ______, ______ ______ ______ ______ ______ ______ on the second floor.",
+      "answer_text": "A: I'm sorry, could you tell me where the restroom is here? B: Of course, it is just around the corner on the second floor.",
+      "blanks": [
+        "could",
+        "you",
+        "tell",
+        "me",
+        "where",
+        "the",
+        "restroom",
+        "is",
+        "Of",
+        "course",
+        "it",
+        "is",
+        "just",
+        "around",
+        "the",
+        "corner"
+      ],
+      "japanese": "A: すみません、こちらのトイレはどこか教えていただけますか？ B: もちろんです。2階の角を曲がったところにございます。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 71",
+        "excerpt": "A: Excuse me, (could) (you) (direct) (me) to (the) (nearest) (men's) (room)? B: The rest rooms (are) (located) on the second floor (just) (to) (the) (right) (of) (the) (elevator)."
+      }
+    },
+    {
+      "id": 49,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ to get a seat ______ ______ ______ B: ______ ______ ______ ______ ______ ______ is available.",
+      "answer_text": "A: Would it be possible to get a seat by the aisle? B: Let me check and see what is available.",
+      "blanks": [
+        "Would",
+        "it",
+        "be",
+        "possible",
+        "by",
+        "the",
+        "aisle",
+        "Let",
+        "me",
+        "check",
+        "and",
+        "see",
+        "what"
+      ],
+      "japanese": "A: 通路側の席にしていただけますか？ B: 確認して空いている席をお調べします。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 75",
+        "excerpt": "A: I would like (to) (book) (a) (table) (for) (eight) (o'clock). B: (Certainly). How many (in) (your) (party)?"
+      }
+    },
+    {
+      "id": 50,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ ______ the proposal? B: ______ ______ ______ ______, but ______ ______ ______ ______ ______ ______ by Friday.",
+      "answer_text": "A: Have you had a chance to look over the proposal? B: I started reading it, but I should be finished with it by Friday.",
+      "blanks": [
+        "Have",
+        "you",
+        "had",
+        "a",
+        "chance",
+        "to",
+        "look",
+        "over",
+        "I",
+        "started",
+        "reading",
+        "it",
+        "I",
+        "should",
+        "be",
+        "finished",
+        "with",
+        "it"
+      ],
+      "japanese": "A: 提案書にざっと目を通す機会はありましたか？ B: 読み始めましたが、金曜日までには読み終わるはずです。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 79",
+        "excerpt": "A: (Did) (you) (get) (a) (chance) (to) (look) (over) my report? B: I (meant) (to), but (there) (just) (hasn't) (been) any time."
+      }
+    },
+    {
+      "id": 51,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ out of the office? B: ______ ______ ______, ______ ______ ______ ______ ______ ______ tomorrow morning.",
+      "answer_text": "A: How long will you be out of the office? B: Just two days, but I will be back in tomorrow morning.",
+      "blanks": [
+        "How",
+        "long",
+        "will",
+        "you",
+        "be",
+        "Just",
+        "two",
+        "days",
+        "but",
+        "I",
+        "will",
+        "be",
+        "back",
+        "in"
+      ],
+      "japanese": "A: どれくらい外出しているの？ B: 2日間だけだよ、でも明日の朝には戻ってくるよ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 78",
+        "excerpt": "A: How long (will) (you) (be) (using) (the) (car)? B: I'd like (to) (keep) (it) (until) (the) (end) (of) (this) (month)."
+      }
+    },
+    {
+      "id": 52,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ a birthday party? B: ______ ______ ______ ______ ______ ______ ______ ______ ______ the guest of honor.",
+      "answer_text": "A: Are you planning on throwing him a birthday party? B: We are trying to keep it a surprise from the guest of honor.",
+      "blanks": [
+        "Are",
+        "you",
+        "planning",
+        "on",
+        "throwing",
+        "him",
+        "We",
+        "are",
+        "trying",
+        "to",
+        "keep",
+        "it",
+        "a",
+        "surprise",
+        "from"
+      ],
+      "japanese": "A: 彼のために誕生日パーティーを開く予定なの？ B: 主役に内緒のサプライズにしようとしているんだよ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 77",
+        "excerpt": "A: Don't you get tired (of) (always) (being) (on) (the) (road)? B: (Not) (at) (all). I like (traveling)."
+      }
+    },
+    {
+      "id": 53,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ the coffee machine? B: ______ ______ ______ ______ ______ ______ ______ ______ ______ to get it fixed.",
+      "answer_text": "A: Do you know what is wrong with the coffee machine? B: It stopped working this morning so I called someone to get it fixed.",
+      "blanks": [
+        "Do",
+        "you",
+        "know",
+        "what",
+        "is",
+        "wrong",
+        "with",
+        "It",
+        "stopped",
+        "working",
+        "this",
+        "morning",
+        "so",
+        "I",
+        "called",
+        "someone"
+      ],
+      "japanese": "A: コーヒーメーカーのどこが悪いか知ってる？ B: 今朝から動かなくなったから、修理の人を呼んだんだ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 72",
+        "excerpt": "A: Have you finished (writing) (those) (reports) yet? B: (They) (are) (almost) (done)."
+      }
+    },
+    {
+      "id": 54,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ ______ ______ ______ the ______ B: ______ ______ ______ ______ a ______ ______ ______.",
+      "answer_text": "A: Why did you decide to apply for a job at the company? B: I heard they offer a great benefits package.",
+      "blanks": [
+        "Why",
+        "did",
+        "you",
+        "decide",
+        "to",
+        "apply",
+        "for",
+        "a",
+        "job",
+        "at",
+        "company",
+        "I",
+        "heard",
+        "they",
+        "offer",
+        "great",
+        "benefits",
+        "package"
+      ],
+      "japanese": "A: なぜその会社に就職しようと決めたの？ B: 福利厚生がとても充実しているって聞いたんだ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 80",
+        "excerpt": "A: How long (have) (you) (been) (with) (the) (company) now? B: (No) (more) (than) (half) (a) (year)."
+      }
+    },
+    {
+      "id": 55,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ ______ ______ ______ dinner? B: ______ ______, ______ ______ ______ ______ ______ to ______ on the main course.",
+      "answer_text": "A: Is there anything you would like to add to tonight's dinner? B: Sounds good, but I am still trying to decide on the main course.",
+      "blanks": [
+        "Is",
+        "there",
+        "anything",
+        "you",
+        "would",
+        "like",
+        "to",
+        "add",
+        "to",
+        "tonight's",
+        "Sounds",
+        "good",
+        "but",
+        "I",
+        "am",
+        "still",
+        "trying",
+        "decide"
+      ],
+      "japanese": "A: 今夜のディナーに何か追加したいものはある？ B: いいね、でもメインコースをまだ決めかねているんだ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 69",
+        "excerpt": "A: Would you like (a) (piece) (of) (cheesecake) (for) (dessert)? B: It sounds (tempting), but (I) (think) (I'll) (pass)."
+      }
+    },
+    {
+      "id": 56,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ the new policy? B: ______ ______, ______ ______ ______ it affects everyone.",
+      "answer_text": "A: Have you had time to read through the new policy? B: Not yet, but I understand it affects everyone.",
+      "blanks": [
+        "Have",
+        "you",
+        "had",
+        "time",
+        "to",
+        "read",
+        "through",
+        "Not",
+        "yet",
+        "but",
+        "I",
+        "understand"
+      ],
+      "japanese": "A: 新しいポリシーを読む時間はあった？ B: まだなんだけど、全員に影響があるとは聞いてるよ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 79",
+        "excerpt": "A: When (do) (I) (have) (to) (pay) (this) (bill)? B: Anytime (after) (the) (fifteenth) (of) (the) (month)."
+      }
+    },
+    {
+      "id": 57,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ waiting for someone? B: ______ ______ ______ ______ ______ here any minute.",
+      "answer_text": "A: Have you been standing out here waiting for someone? B: Yes, my colleague should be here any minute.",
+      "blanks": [
+        "Have",
+        "you",
+        "been",
+        "standing",
+        "out",
+        "here",
+        "Yes",
+        "my",
+        "colleague",
+        "should",
+        "be"
+      ],
+      "japanese": "A: ここで誰かを待ちながらずっと立っていたの？ B: うん、同僚がもうすぐ来るはずなんだ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 74",
+        "excerpt": "A: Has (the) (delivery) (person) (been) (by) today? B: (Not) (yet), but (I) (think) (he'll) (be) here soon."
+      }
+    },
+    {
+      "id": 58,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ the workshop? B: ______ ______ ______ ______, ______ ______ ______ ______ ______ a lot from it.",
+      "answer_text": "A: What did you end up thinking of the workshop? B: It was really eye-opening, and I think I learned a lot from it.",
+      "blanks": [
+        "What",
+        "did",
+        "you",
+        "end",
+        "up",
+        "thinking",
+        "of",
+        "It",
+        "was",
+        "really",
+        "eye-opening",
+        "and",
+        "I",
+        "think",
+        "I",
+        "learned"
+      ],
+      "japanese": "A: ワークショップはどうだったの？ B: すごく目から鱗だったし、たくさん学べたと思うよ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 68",
+        "excerpt": "A: That was (the) (best) (movie) (I've) (seen) (in) (a) (long) (time). B: Personally, I thought it was (a) (bit) (sentimental)."
+      }
+    },
+    {
+      "id": 59,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ ______ a table for two? B: ______ ______ ______ ______ ______ ______ ______ ______ thirty minutes.",
+      "answer_text": "A: How long do we have to wait for a table for two? B: I am afraid it could be up to thirty minutes.",
+      "blanks": [
+        "How",
+        "long",
+        "do",
+        "we",
+        "have",
+        "to",
+        "wait",
+        "for",
+        "I",
+        "am",
+        "afraid",
+        "it",
+        "could",
+        "be",
+        "up",
+        "to"
+      ],
+      "japanese": "A: 2人のテーブルが空くまでどれくらい待ちますか？ B: 申し訳ないですが、最大30分ほどかかる可能性があります。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 69",
+        "excerpt": "A: I'd like (two) (tickets) (for) (the) (two) (o'clock) (show). B: I am afraid (all) (the) (shows) (for) (today) (have) (been) (sold) (out)."
+      }
+    },
+    {
+      "id": 60,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ ______ ______ ______ the presentation? B: ______ ______, ______ ______ ______ ______ ______ ______ ______ a few more slides.",
+      "answer_text": "A: Do you think you will be ready in time for the presentation? B: Almost there, but I still need to put together a few more slides.",
+      "blanks": [
+        "Do",
+        "you",
+        "think",
+        "you",
+        "will",
+        "be",
+        "ready",
+        "in",
+        "time",
+        "for",
+        "Almost",
+        "there",
+        "but",
+        "I",
+        "still",
+        "need",
+        "to",
+        "put",
+        "together"
+      ],
+      "japanese": "A: プレゼンに間に合うように準備できそう？ B: もう少しで終わるんだけど、あと数枚スライドを作らないといけないんだ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 72",
+        "excerpt": "A: (Why) (don't) (you) (work) (on) (it) tomorrow? B: I wish, (but) (I) (promised) (to) (finish) (it) (by) three o'clock this afternoon."
+      }
+    },
+    {
+      "id": 61,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ the interview? B: ______ ______ ______ it went really well.",
+      "answer_text": "A: How do you think you did in the interview? B: I honestly think it went really well.",
+      "blanks": [
+        "How",
+        "do",
+        "you",
+        "think",
+        "you",
+        "did",
+        "in",
+        "I",
+        "honestly",
+        "think"
+      ],
+      "japanese": "A: 面接はどうだったと思う？ B: 正直、すごくうまくいったと思うよ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 62",
+        "excerpt": "A: (Will) (you) (call) (me) (on) Thursday? B: I will be (out) (of) (town) (that) (day)."
+      }
+    },
+    {
+      "id": 62,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ ______ the conference? B: ______ ______ ______ ______ ______ ______ ______ next Monday.",
+      "answer_text": "A: Do you know who is going to chair the conference? B: I believe it has been set for next Monday.",
+      "blanks": [
+        "Do",
+        "you",
+        "know",
+        "who",
+        "is",
+        "going",
+        "to",
+        "chair",
+        "I",
+        "believe",
+        "it",
+        "has",
+        "been",
+        "set",
+        "for"
+      ],
+      "japanese": "A: 会議の議長は誰が務めるか知ってる？ B: 来週の月曜日に設定されていると思うよ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 63",
+        "excerpt": "A: Would you mind (passing) (the) (salt) (and) (pepper)? B: (Here) (you) (are)."
+      }
+    },
+    {
+      "id": 63,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ for the trip? B: ______ ______, ______ ______ ______ ______ ______ ______ everything is in order.",
+      "answer_text": "A: Have you finished packing all your things for the trip? B: Pretty much, I just want to make sure everything is in order.",
+      "blanks": [
+        "Have",
+        "you",
+        "finished",
+        "packing",
+        "all",
+        "your",
+        "things",
+        "Pretty",
+        "much",
+        "I",
+        "just",
+        "want",
+        "to",
+        "make",
+        "sure"
+      ],
+      "japanese": "A: 旅行の荷物は全部詰め終わった？ B: ほとんどね、ただすべてが整っているか確認したいだけ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 64",
+        "excerpt": "A: (Can) (I) (offer) (you) (a) (hand) (with) this suitcase? B: (I) (can) (manage) (by) (myself), thank you."
+      }
+    },
+    {
+      "id": 64,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ the new café? B: ______ ______ ______ ______ ______, but the service was a bit slow.",
+      "answer_text": "A: What did you end up thinking of the new café? B: The food was absolutely delicious, but the service was a bit slow.",
+      "blanks": [
+        "What",
+        "did",
+        "you",
+        "end",
+        "up",
+        "thinking",
+        "of",
+        "The",
+        "food",
+        "was",
+        "absolutely",
+        "delicious"
+      ],
+      "japanese": "A: 新しいカフェはどうだった？ B: 料理はとても美味しかったけど、サービスがちょっと遅かったね。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 65",
+        "excerpt": "A: (Was) (the) (party) (any) (good)? B: (Everyone) (seemed) (to) (have) a good time."
+      }
+    },
+    {
+      "id": 65,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ this weekend? B: ______ ______ ______ ______ ______ ______ ______ some old friends.",
+      "answer_text": "A: Are you planning on doing anything special this weekend? B: I am hoping to catch up with some old friends.",
+      "blanks": [
+        "Are",
+        "you",
+        "planning",
+        "on",
+        "doing",
+        "anything",
+        "special",
+        "I",
+        "am",
+        "hoping",
+        "to",
+        "catch",
+        "up",
+        "with"
+      ],
+      "japanese": "A: 今週末は何か特別なことをする予定はあるの？ B: 旧友に会って近況報告できればと思ってるよ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 66",
+        "excerpt": "A: (Have) (you) (ever) (visited) France? B: No, (but) (I) (hope) (to) (go) (there) (soon)."
+      }
+    },
+    {
+      "id": 66,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ the office move? B: ______ ______ ______ ______ ______ ______ sometime next month.",
+      "answer_text": "A: Have you heard anything about the office move? B: I think it is scheduled for sometime next month.",
+      "blanks": [
+        "Have",
+        "you",
+        "heard",
+        "anything",
+        "about",
+        "I",
+        "think",
+        "it",
+        "is",
+        "scheduled",
+        "for"
+      ],
+      "japanese": "A: オフィスの移転について何か聞いてる？ B: 来月のどこかで予定されていると思うよ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 67",
+        "excerpt": "A: (Are) (all) (the) (attendants) in the conference room? B: Yes, (everyone) (but) (the) (president)."
+      }
+    },
+    {
+      "id": 67,
+      "level": "level3",
+      "question_text": "A: You look ______ ______ ______ ______ ______ ______ ______ B: ______ ______ ______ ______ ______ a ______ ______ last night.",
+      "answer_text": "A: You look like you barely slept at all today. B: I was up working on a tight deadline last night.",
+      "blanks": [
+        "like",
+        "you",
+        "barely",
+        "slept",
+        "at",
+        "all",
+        "today",
+        "I",
+        "was",
+        "up",
+        "working",
+        "on",
+        "tight",
+        "deadline"
+      ],
+      "japanese": "A: 今日はほとんど寝ていないみたいね。 B: 昨夜は締め切りに追われて作業していたんだ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 68",
+        "excerpt": "A: You are looking (awfully) (healthy) (lately). B: I have been (on) (a) (diet), (and) (I) (started) (jogging) last week."
+      }
+    },
+    {
+      "id": 68,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ seats together? B: ______ ______ ______ ______ ______ ______ ______ for you.",
+      "answer_text": "A: Would it be possible to get two seats together? B: Let me see what I can arrange for you.",
+      "blanks": [
+        "Would",
+        "it",
+        "be",
+        "possible",
+        "to",
+        "get",
+        "two",
+        "Let",
+        "me",
+        "see",
+        "what",
+        "I",
+        "can",
+        "arrange"
+      ],
+      "japanese": "A: 2席を隣同士にしてもらうことはできますか？ B: 手配できるか確認してみますね。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 69",
+        "excerpt": "A: I'd like (two) (tickets) (for) (the) (two) (o'clock) (show). B: I am afraid (all) (the) (shows) (for) (today) (have) (been) (sold) (out)."
+      }
+    },
+    {
+      "id": 69,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ again, aren't you? B: ______ ______ ______ ______ ______ ______ ______ ______ ______.",
+      "answer_text": "A: You are staying late at the office again, aren't you? B: I am afraid I have no choice this time.",
+      "blanks": [
+        "You",
+        "are",
+        "staying",
+        "late",
+        "at",
+        "the",
+        "office",
+        "I",
+        "am",
+        "afraid",
+        "I",
+        "have",
+        "no",
+        "choice",
+        "this",
+        "time"
+      ],
+      "japanese": "A: またオフィスに遅くまで残るの？ B: 残念ながら今回は仕方ないんだ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 70",
+        "excerpt": "A: You are (putting) (off) your trip again, aren't you? B: I'm afraid (I) (have) (no) (choice)."
+      }
+    },
+    {
+      "id": 70,
+      "level": "level3",
+      "question_text": "A: Excuse me, ______ ______ ______ ______ ______ ______ ______ ______ ______ nearest exit? B: ______ ______ ______ ______ ______ the end of this corridor.",
+      "answer_text": "A: Excuse me, could you point me in the direction of the nearest exit? B: Just keep walking straight toward the end of this corridor.",
+      "blanks": [
+        "could",
+        "you",
+        "point",
+        "me",
+        "in",
+        "the",
+        "direction",
+        "of",
+        "the",
+        "Just",
+        "keep",
+        "walking",
+        "straight",
+        "toward"
+      ],
+      "japanese": "A: すみません、一番近い出口への行き方を教えていただけますか？ B: この廊下をまっすぐ歩いていけばすぐですよ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 71",
+        "excerpt": "A: Excuse me, (could) (you) (direct) (me) to (the) (nearest) (men's) (room)? B: The rest rooms (are) (located) on the second floor."
+      }
+    },
+    {
+      "id": 71,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ the project yet? B: ______ ______ ______ ______ ______.",
+      "answer_text": "A: Have you had a chance to review the project yet? B: I am about halfway through.",
+      "blanks": [
+        "Have",
+        "you",
+        "had",
+        "a",
+        "chance",
+        "to",
+        "review",
+        "I",
+        "am",
+        "about",
+        "halfway",
+        "through"
+      ],
+      "japanese": "A: プロジェクトを見直す機会はありましたか？ B: まだ半分くらいのところです。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 72",
+        "excerpt": "A: Have you finished (writing) (those) (reports) yet? B: (They) (are) (almost) (done)."
+      }
+    },
+    {
+      "id": 72,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ the sales figures? B: ______ ______ ______ ______ ______ ______ ______ by end of day tomorrow.",
+      "answer_text": "A: May I ask when you need the sales figures? B: I would like to have them ready by end of day tomorrow.",
+      "blanks": [
+        "May",
+        "I",
+        "ask",
+        "when",
+        "you",
+        "need",
+        "I",
+        "would",
+        "like",
+        "to",
+        "have",
+        "them",
+        "ready"
+      ],
+      "japanese": "A: 売上データはいつ必要ですか？ B: 明日の終業時までに準備してほしいんだ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 73",
+        "excerpt": "A: (May) (I) (give) Mr. Kato (your) (message)? B: (Just) (tell) (him) (I) (called)."
+      }
+    },
+    {
+      "id": 73,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ ______ B: ______ ______ ______ a ______ ______ ______ social media.",
+      "answer_text": "A: Did you happen to hear about the accident? B: I only saw a brief mention on social media.",
+      "blanks": [
+        "Did",
+        "you",
+        "happen",
+        "to",
+        "hear",
+        "about",
+        "the",
+        "accident",
+        "I",
+        "only",
+        "saw",
+        "brief",
+        "mention",
+        "on"
+      ],
+      "japanese": "A: あの事故のことを偶然聞いた？ B: ソーシャルメディアでちらっと見ただけだよ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 74",
+        "excerpt": "A: (Did) (you) (hear) (about) (that) (terrible) accident? B: (I) (read) (about) (it) (in) the newspaper."
+      }
+    },
+    {
+      "id": 74,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ downtown station? B: I think ______ ______ ______ ______ ______ ______.",
+      "answer_text": "A: How many stops is it to the downtown station? B: I think it is about three more stops.",
+      "blanks": [
+        "How",
+        "many",
+        "stops",
+        "is",
+        "it",
+        "to",
+        "the",
+        "it",
+        "is",
+        "about",
+        "three",
+        "more",
+        "stops"
+      ],
+      "japanese": "A: 繁華街の駅まであと何駅ですか？ B: あと3駅くらいだと思いますよ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 75",
+        "excerpt": "A: (How) (many) (stops) (is) (it) to Shinjuku Station? B: I think (the) (station) (after) (this)."
+      }
+    },
+    {
+      "id": 75,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ before? B: ______ ______ ______ ______ ______ the company picnic last summer.",
+      "answer_text": "A: Haven't we run into each other somewhere before? B: Perhaps we met briefly at the company picnic last summer.",
+      "blanks": [
+        "Haven't",
+        "we",
+        "run",
+        "into",
+        "each",
+        "other",
+        "somewhere",
+        "Perhaps",
+        "we",
+        "met",
+        "briefly",
+        "at"
+      ],
+      "japanese": "A: 以前どこかでお会いしませんでしたっけ？ B: ひょっとしたら去年の夏の社員ピクニックでお会いしたかもしれません。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 76",
+        "excerpt": "A: (Haven't) (we) (met) (somewhere) before? B: (Perhaps) (at) (the) (conference) last year."
+      }
+    },
+    {
+      "id": 76,
+      "level": "level3",
+      "question_text": "A: Don't you find it ______ ______ ______ ______ ______ every day? B: ______ ______ ______ ______. I actually ______ ______ ______ ______ ______ ______.",
+      "answer_text": "A: Don't you find it exhausting to commute so far every day? B: Not really at all. I actually enjoy the quiet time to myself.",
+      "blanks": [
+        "exhausting",
+        "to",
+        "commute",
+        "so",
+        "far",
+        "Not",
+        "really",
+        "at",
+        "all",
+        "enjoy",
+        "the",
+        "quiet",
+        "time",
+        "to",
+        "myself"
+      ],
+      "japanese": "A: 毎日そんなに遠くまで通勤するのは疲れない？ B: 全然そんなことないよ。むしろ一人の静かな時間を楽しんでいるんだ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 77",
+        "excerpt": "A: Don't you get tired (of) (always) (being) (on) (the) (road)? B: (Not) (at) (all). I like (traveling)."
+      }
+    },
+    {
+      "id": 77,
+      "level": "level3",
+      "question_text": "A: How long ______ ______ ______ ______ ______ ______ ______? B: ______ ______ ______ ______ ______ ______ ______ the end of next week.",
+      "answer_text": "A: How long will you be needing the conference room? B: We should be finished with it by the end of next week.",
+      "blanks": [
+        "will",
+        "you",
+        "be",
+        "needing",
+        "the",
+        "conference",
+        "room",
+        "We",
+        "should",
+        "be",
+        "finished",
+        "with",
+        "it",
+        "by"
+      ],
+      "japanese": "A: 会議室はどのくらいの間使う予定ですか？ B: 来週末には終わっているはずです。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 78",
+        "excerpt": "A: How long (will) (you) (be) (using) (the) (car)? B: I'd like (to) (keep) (it) (until) (the) (end) (of) (this) (month)."
+      }
+    },
+    {
+      "id": 78,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ ______ ______ the proposal? B: I ______ ______, ______ ______ ______ ______ ______ any spare time.",
+      "answer_text": "A: Did you get around to taking a look at the proposal? B: I meant to, but there just hasn't been any spare time.",
+      "blanks": [
+        "Did",
+        "you",
+        "get",
+        "around",
+        "to",
+        "taking",
+        "a",
+        "look",
+        "at",
+        "meant",
+        "to",
+        "but",
+        "there",
+        "just",
+        "hasn't",
+        "been"
+      ],
+      "japanese": "A: 提案書に目を通す機会はありましたか？ B: そうするつもりでしたが、まったく余裕がありませんでした。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 79",
+        "excerpt": "A: (Did) (you) (get) (a) (chance) (to) (look) (over) my report? B: I (meant) (to), but (there) (just) (hasn't) (been) any time."
+      }
+    },
+    {
+      "id": 79,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ would you suggest? B: I think ______ ______ ______ ______ ______ ______.",
+      "answer_text": "A: Which of these two options would you suggest? B: I think they both have their own merits.",
+      "blanks": [
+        "Which",
+        "of",
+        "these",
+        "two",
+        "options",
+        "they",
+        "both",
+        "have",
+        "their",
+        "own",
+        "merits"
+      ],
+      "japanese": "A: この2つの選択肢のうち、どちらをすすめますか？ B: どちらにもそれぞれいい点があると思うよ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 80",
+        "excerpt": "A: (Which) (of) (these) (cameras) would you recommend? B: I think (they) (are) (all) (about) the same."
+      }
+    },
+    {
+      "id": 80,
+      "level": "level3",
+      "question_text": "A: Are ______ sure you ______ ______ ______ ______ ______ ______ ______? B: ______ ______ ______ ______ ______ ______ ______ ______ ______ ______ the way.",
+      "answer_text": "A: Are you sure you know how to get to the venue? B: I have been there several times before and I know the way.",
+      "blanks": [
+        "you",
+        "know",
+        "how",
+        "to",
+        "get",
+        "to",
+        "the",
+        "venue",
+        "I",
+        "have",
+        "been",
+        "there",
+        "several",
+        "times",
+        "before",
+        "and",
+        "I",
+        "know"
+      ],
+      "japanese": "A: 会場への行き方は本当にわかってる？ B: 以前に何度も行ったことがあるし、道はわかってるよ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 81",
+        "excerpt": "A: Are you sure (there'll) (be) (someone) (there) (to) (meet) (us)? B: They (promised) (there) (would) (be)."
+      }
+    },
+    {
+      "id": 81,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ test the new software? B: ______ ______, ______ ______ ______ it yet.",
+      "answer_text": "A: Have you had time to test the new software? B: Not really, I haven't touched it yet.",
+      "blanks": [
+        "Have",
+        "you",
+        "had",
+        "time",
+        "to",
+        "Not",
+        "really",
+        "I",
+        "haven't",
+        "touched"
+      ],
+      "japanese": "A: 新しいソフトウェアをテストする時間はあった？ B: 正直なところ、まだ手をつけていないんだ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 79",
+        "excerpt": "A: (Did) (you) (get) (a) (chance) (to) (look) (over) my report? B: I (meant) (to), but (there) (just) (hasn't) (been) any time."
+      }
+    },
+    {
+      "id": 82,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ on Saturday night? B: ______ ______ ______ ______ ______ downtown.",
+      "answer_text": "A: Are you free to meet up on Saturday night? B: I was thinking of heading downtown.",
+      "blanks": [
+        "Are",
+        "you",
+        "free",
+        "to",
+        "meet",
+        "up",
+        "I",
+        "was",
+        "thinking",
+        "of",
+        "heading"
+      ],
+      "japanese": "A: 土曜の夜に会える？ B: ダウンタウンに行こうかと思ってたんだ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 62",
+        "excerpt": "A: (Will) (you) (call) (me) (on) Thursday? B: I will be (out) (of) (town) (that) (day)."
+      }
+    },
+    {
+      "id": 83,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ dinner reservation? B: ______ ______ ______ the restaurant this morning.",
+      "answer_text": "A: Did you remember to make the dinner reservation? B: I already called the restaurant this morning.",
+      "blanks": [
+        "Did",
+        "you",
+        "remember",
+        "to",
+        "make",
+        "the",
+        "I",
+        "already",
+        "called"
+      ],
+      "japanese": "A: ディナーの予約をするのを忘れなかった？ B: 今朝、もうレストランに電話したよ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 75",
+        "excerpt": "A: I would like (to) (book) (a) (table) (for) (eight) (o'clock). B: (Certainly). How many (in) (your) (party)?"
+      }
+    },
+    {
+      "id": 84,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ the neighborhood? B: ______ ______ ______ ______ ______ last autumn.",
+      "answer_text": "A: How did you end up moving into the neighborhood? B: I found a great deal last autumn.",
+      "blanks": [
+        "How",
+        "did",
+        "you",
+        "end",
+        "up",
+        "moving",
+        "into",
+        "I",
+        "found",
+        "a",
+        "great",
+        "deal"
+      ],
+      "japanese": "A: どういう経緯でこの近所に引っ越したの？ B: 去年の秋にお得な物件を見つけたんだ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 76",
+        "excerpt": "A: (Haven't) (we) (met) (somewhere) before? B: (Perhaps) (at) (the) (conference) last year."
+      }
+    },
+    {
+      "id": 85,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ the meeting today? B: ______ ______ ______ ______ ______ ______ start without me.",
+      "answer_text": "A: Do you think you can make the meeting today? B: I might be late so please start without me.",
+      "blanks": [
+        "Do",
+        "you",
+        "think",
+        "you",
+        "can",
+        "make",
+        "I",
+        "might",
+        "be",
+        "late",
+        "so",
+        "please"
+      ],
+      "japanese": "A: 今日の会議には出られそう？ B: 遅れるかもしれないから、先に始めておいてください。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 86",
+        "excerpt": "A: (Where) (have) (you) (been)? The meeting started (half) (an) (hour) (ago)! B: Sorry. I gave myself (two) (hours) (to) (get) (here) but (I) (got) (caught) (in) (traffic)."
+      }
+    },
+    {
+      "id": 86,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ here this weekend? B: ______ ______ ______ ______ ______ Friday evening.",
+      "answer_text": "A: Is your sister planning to visit here this weekend? B: She is supposed to arrive Friday evening.",
+      "blanks": [
+        "Is",
+        "your",
+        "sister",
+        "planning",
+        "to",
+        "visit",
+        "She",
+        "is",
+        "supposed",
+        "to",
+        "arrive"
+      ],
+      "japanese": "A: 今週末、お姉さんはここに来る予定なの？ B: 金曜の夜に来るはずなんだ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 66",
+        "excerpt": "A: (Why) (were) (you) (in) Chicago? B: (I) (went) (to) (see) my parents."
+      }
+    },
+    {
+      "id": 87,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ lunch together? B: ______ ______, ______ ______ ______ if I'm free.",
+      "answer_text": "A: Would you be interested in grabbing lunch together? B: Sounds great, let me check if I'm free.",
+      "blanks": [
+        "Would",
+        "you",
+        "be",
+        "interested",
+        "in",
+        "grabbing",
+        "Sounds",
+        "great",
+        "let",
+        "me",
+        "check"
+      ],
+      "japanese": "A: 一緒にランチでもどう？ B: いいね、予定を確認してみる。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 63",
+        "excerpt": "A: (Why) (don't) (we) (drive) (out) to the ocean? B: (Sounds) (like) a good idea (to) (me)."
+      }
+    },
+    {
+      "id": 88,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ to the gym lately? B: ______ ______ ______ ______ ______ ______ ______ ______ past few weeks.",
+      "answer_text": "A: Have you been going to the gym lately? B: Not much, I have been really busy these past few weeks.",
+      "blanks": [
+        "Have",
+        "you",
+        "been",
+        "going",
+        "Not",
+        "much",
+        "I",
+        "have",
+        "been",
+        "really",
+        "busy",
+        "these"
+      ],
+      "japanese": "A: 最近ジムに通ってる？ B: あまりね、ここ数週間ずっと忙しくて。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 80",
+        "excerpt": "A: How long (have) (you) (been) (with) (the) (company) now? B: (No) (more) (than) (half) (a) (year)."
+      }
+    },
+    {
+      "id": 89,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ tonight? B: ______ ______ ______ ______ ______ at seven.",
+      "answer_text": "A: What time does the concert actually start tonight? B: I believe the doors open at seven.",
+      "blanks": [
+        "What",
+        "time",
+        "does",
+        "the",
+        "concert",
+        "actually",
+        "start",
+        "I",
+        "believe",
+        "the",
+        "doors",
+        "open"
+      ],
+      "japanese": "A: 今夜のコンサートは実際何時から始まるの？ B: 7時に開場だと思う。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 72",
+        "excerpt": "A: (Why) (don't) (you) (work) (on) (it) tomorrow? B: I wish, (but) (I) (promised) (to) (finish) (it) (by) three o'clock this afternoon."
+      }
+    },
+    {
+      "id": 90,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ the hotel from here? B: ______ ______ ______ ______ ______ ten minutes ______ ______.",
+      "answer_text": "A: How far is it to the hotel from here? B: It should only take about ten minutes on foot.",
+      "blanks": [
+        "How",
+        "far",
+        "is",
+        "it",
+        "to",
+        "It",
+        "should",
+        "only",
+        "take",
+        "about",
+        "on",
+        "foot"
+      ],
+      "japanese": "A: ここからホテルまでどれくらい遠いの？ B: 徒歩で約10分くらいのはずだよ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 75",
+        "excerpt": "A: (How) (many) (stops) (is) (it) to Shinjuku Station? B: I think (the) (station) (after) (this)."
+      }
+    },
+    {
+      "id": 91,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ the budget for this project? B: ______ ______ ______ ______ ______ ______ management.",
+      "answer_text": "A: Do you know who is approving the budget for this project? B: It still has to go through management.",
+      "blanks": [
+        "Do",
+        "you",
+        "know",
+        "who",
+        "is",
+        "approving",
+        "It",
+        "still",
+        "has",
+        "to",
+        "go",
+        "through"
+      ],
+      "japanese": "A: このプロジェクトの予算は誰が承認するか知ってる？ B: まだ経営陣を通す必要があるんだ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 67",
+        "excerpt": "A: (Are) (all) (the) (attendants) in the conference room? B: Yes, (everyone) (but) (the) (president)."
+      }
+    },
+    {
+      "id": 92,
+      "level": "level3",
+      "question_text": "A: Don't ______ think ______ ______ ______ ______ ______ ______ ______? B: ______ ______ ______ you, but ______ ______ ______ ______ ______ money.",
+      "answer_text": "A: Don't you think we should look for a bigger apartment? B: I agree with you, but we need to save more money.",
+      "blanks": [
+        "you",
+        "we",
+        "should",
+        "look",
+        "for",
+        "a",
+        "bigger",
+        "apartment",
+        "I",
+        "agree",
+        "with",
+        "we",
+        "need",
+        "to",
+        "save",
+        "more"
+      ],
+      "japanese": "A: もっと広いアパートを探すべきだと思わない？ B: そう思うけど、もっとお金を貯めないといけないね。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 77",
+        "excerpt": "A: Don't you get tired (of) (always) (being) (on) (the) (road)? B: (Not) (at) (all). I like (traveling) and (thanks) (to) (the) (job), I get to see many places."
+      }
+    },
+    {
+      "id": 93,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ the sales report? B: ______ ______ ______ ______ it ______ ______ ______ ______ of the week.",
+      "answer_text": "A: When do you need to submit the sales report? B: I have to hand it in by the end of the week.",
+      "blanks": [
+        "When",
+        "do",
+        "you",
+        "need",
+        "to",
+        "submit",
+        "I",
+        "have",
+        "to",
+        "hand",
+        "in",
+        "by",
+        "the",
+        "end"
+      ],
+      "japanese": "A: 売上報告書はいつ提出しないといけないの？ B: 今週末までに提出しないといけないんだ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 79",
+        "excerpt": "A: When (do) (I) (have) (to) (pay) (this) (bill)? B: Anytime (after) (the) (fifteenth) (of) (the) (month)."
+      }
+    },
+    {
+      "id": 94,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ ______ the charity event? B: ______ ______ ______ around two hundred people ______ ______.",
+      "answer_text": "A: Do you have any idea how many attended the charity event? B: I would guess around two hundred people showed up.",
+      "blanks": [
+        "Do",
+        "you",
+        "have",
+        "any",
+        "idea",
+        "how",
+        "many",
+        "attended",
+        "I",
+        "would",
+        "guess",
+        "showed",
+        "up"
+      ],
+      "japanese": "A: チャリティーイベントに何人来たか知ってる？ B: 200人くらい来たと思うよ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 81",
+        "excerpt": "A: Are you sure (there'll) (be) (someone) (there) (to) (meet) (us)? B: They (promised) (there) (would) (be)."
+      }
+    },
+    {
+      "id": 95,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ the ferry? B: ______ ______ ______ ______ ______ we are going to be late.",
+      "answer_text": "A: Do you think we can still catch the ferry? B: At this pace I'm worried we are going to be late.",
+      "blanks": [
+        "Do",
+        "you",
+        "think",
+        "we",
+        "can",
+        "still",
+        "catch",
+        "At",
+        "this",
+        "pace",
+        "I'm",
+        "worried"
+      ],
+      "japanese": "A: まだフェリーに間に合うと思う？ B: このペースだと遅れそうで心配だな。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 83",
+        "excerpt": "A: (With) (the) (traffic) (like) (this), I'm afraid (we) (will) (never) (get) (to) the airport by 11:00."
+      }
+    },
+    {
+      "id": 96,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ anything ______ ______ ______ ______ ______? B: ______ ______ ______ I need to be back ______ ______.",
+      "answer_text": "A: Do you have anything planned after the meeting tonight? B: Nothing special but I need to be back by nine.",
+      "blanks": [
+        "Do",
+        "you",
+        "have",
+        "planned",
+        "after",
+        "the",
+        "meeting",
+        "tonight",
+        "Nothing",
+        "special",
+        "but",
+        "by",
+        "nine"
+      ],
+      "japanese": "A: 今夜の会議の後、何か予定はある？ B: 特にないけど、9時までには戻らないといけないんだ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 68",
+        "excerpt": "A: You are looking (awfully) (healthy) (lately). B: I have been (on) (a) (diet), (and) (I) (started) (jogging) last week."
+      }
+    },
+    {
+      "id": 97,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ ______ coming next month? B: ______ ______ ______ ______ ______ the whole team.",
+      "answer_text": "A: Are there going to be any staff changes coming next month? B: I hear they are reshuffling the whole team.",
+      "blanks": [
+        "Are",
+        "there",
+        "going",
+        "to",
+        "be",
+        "any",
+        "staff",
+        "changes",
+        "I",
+        "hear",
+        "they",
+        "are",
+        "reshuffling"
+      ],
+      "japanese": "A: 来月、人事異動はあるの？ B: チーム全体を再編するって聞いてるよ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 74",
+        "excerpt": "A: Has (the) (delivery) (person) (been) (by) today? B: (Not) (yet), but (I) (think) (he'll) (be) here soon."
+      }
+    },
+    {
+      "id": 98,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ ______ ______ flight? B: ______ ______ on the ______ ______ but ______ ______ ______.",
+      "answer_text": "A: Were you able to get an upgrade on the flight? B: I was on the waiting list but nothing came through.",
+      "blanks": [
+        "Were",
+        "you",
+        "able",
+        "to",
+        "get",
+        "an",
+        "upgrade",
+        "on",
+        "the",
+        "I",
+        "was",
+        "waiting",
+        "list",
+        "nothing",
+        "came",
+        "through"
+      ],
+      "japanese": "A: フライトでアップグレードできた？ B: キャンセル待ちに入ってたけど、結局ダメだったんだ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 84",
+        "excerpt": "A: Is there time to have a snack before we board the plane? B: Don't worry. They'll serve lunch on the plane."
+      }
+    },
+    {
+      "id": 99,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ the conference? B: ______ ______ ______ ______ ______ ______ ______ ______.",
+      "answer_text": "A: What did you honestly think of the conference? B: It was more informative than I had expected.",
+      "blanks": [
+        "What",
+        "did",
+        "you",
+        "honestly",
+        "think",
+        "of",
+        "It",
+        "was",
+        "more",
+        "informative",
+        "than",
+        "I",
+        "had",
+        "expected"
+      ],
+      "japanese": "A: 正直なところ、カンファレンスについてどう思った？ B: 思っていたよりずっと勉強になったよ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 77",
+        "excerpt": "A: (Did) (you) (happen) (to) (hear) (when) (he) (said) (he) (was) coming here? B: I think it's (the) (day) (after) (tomorrow)."
+      }
+    },
+    {
+      "id": 100,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ ______ ______ the reception? B: ______ ______ ______ ______ ______ ______ ______ ______ ______ people afterward.",
+      "answer_text": "A: Do you know how many people will be at the reception? B: I think there will be around thirty or forty people afterward.",
+      "blanks": [
+        "Do",
+        "you",
+        "know",
+        "how",
+        "many",
+        "people",
+        "will",
+        "be",
+        "at",
+        "I",
+        "think",
+        "there",
+        "will",
+        "be",
+        "around",
+        "thirty",
+        "or",
+        "forty"
+      ],
+      "japanese": "A: レセプションには何人来るか知ってる？ B: その後、30人か40人くらい来ると思うよ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 85",
+        "excerpt": "A: (How) (are) (you) (feeling) this morning? B: (Much) (better) (today), thank you."
+      }
+    },
+    {
+      "id": 101,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ the meeting? B: ______ ______ ______ ______ a few minutes late.",
+      "answer_text": "A: Do you know when they scheduled the meeting? B: I heard it starts a few minutes late.",
+      "blanks": [
+        "Do",
+        "you",
+        "know",
+        "when",
+        "they",
+        "scheduled",
+        "I",
+        "heard",
+        "it",
+        "starts"
+      ],
+      "japanese": "A: 会議がいつに設定されたか知ってる？ B: 少し遅れて始まると聞いたよ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 62",
+        "excerpt": "A: (Will) (you) (call) (me) (on) Thursday? B: I will be (out) (of) (town) (that) (day)."
+      }
+    },
+    {
+      "id": 102,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ your new apartment? B: ______ ______ ______ ______, but ______ ______ ______ the neighbors.",
+      "answer_text": "A: How are you settling into your new apartment? B: It feels quite cozy, but I haven't met the neighbors.",
+      "blanks": [
+        "How",
+        "are",
+        "you",
+        "settling",
+        "into",
+        "It",
+        "feels",
+        "quite",
+        "cozy",
+        "I",
+        "haven't",
+        "met"
+      ],
+      "japanese": "A: 新しいアパートには慣れてきた？ B: かなり居心地はいいけど、まだ近所の人に会ってないんだ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 63",
+        "excerpt": "A: (Why) (don't) (we) (drive) (out) to the ocean? B: (Sounds) (like) a good idea (to) (me)."
+      }
+    },
+    {
+      "id": 103,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ this evening? B: ______ ______ ______ ______ ______ as long as it doesn't run too late.",
+      "answer_text": "A: Would you mind joining us for dinner this evening? B: I would love to come as long as it doesn't run too late.",
+      "blanks": [
+        "Would",
+        "you",
+        "mind",
+        "joining",
+        "us",
+        "for",
+        "dinner",
+        "I",
+        "would",
+        "love",
+        "to",
+        "come"
+      ],
+      "japanese": "A: 今夜、夕食に一緒にどうですか？ B: あまり遅くならなければ、ぜひ参加したいです。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 63",
+        "excerpt": "A: Would you mind (passing) (the) (salt) (and) (pepper)? B: (Here) (you) (are)."
+      }
+    },
+    {
+      "id": 104,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ ______ the station? B: ______ ______ ______ ______ the third traffic light.",
+      "answer_text": "A: Can you tell me how to get to the station? B: Just turn left at the third traffic light.",
+      "blanks": [
+        "Can",
+        "you",
+        "tell",
+        "me",
+        "how",
+        "to",
+        "get",
+        "to",
+        "Just",
+        "turn",
+        "left",
+        "at"
+      ],
+      "japanese": "A: 駅への行き方を教えてもらえますか？ B: 三つ目の信号を左に曲がるだけですよ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 71",
+        "excerpt": "A: Excuse me, (could) (you) (direct) (me) to (the) (nearest) (men's) (room)? B: The rest rooms (are) (located) on the second floor..."
+      }
+    },
+    {
+      "id": 105,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ trip ______ Europe? B: ______ ______ ______, ______ ______ ______ ______ to ______ once I save enough.",
+      "answer_text": "A: Have you given up on your trip to Europe? B: Not at all, I am still planning to go once I save enough.",
+      "blanks": [
+        "Have",
+        "you",
+        "given",
+        "up",
+        "on",
+        "your",
+        "to",
+        "Not",
+        "at",
+        "all",
+        "I",
+        "am",
+        "still",
+        "planning",
+        "go"
+      ],
+      "japanese": "A: ヨーロッパ旅行は諦めたの？ B: 全然。お金が貯まったら行くつもりだよ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 66",
+        "excerpt": "A: (Have) (you) (ever) (visited) France? B: No, (but) (I) (hope) (to) (go) (there) (soon)."
+      }
+    },
+    {
+      "id": 106,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ for the weekend? B: ______ ______ ______ ______ ______ a hiking trail nearby.",
+      "answer_text": "A: Did you come up with any plans for the weekend? B: I am thinking of exploring a hiking trail nearby.",
+      "blanks": [
+        "Did",
+        "you",
+        "come",
+        "up",
+        "with",
+        "any",
+        "plans",
+        "I",
+        "am",
+        "thinking",
+        "of",
+        "exploring"
+      ],
+      "japanese": "A: 週末の計画は決まった？ B: 近くにあるハイキングコースを歩いてみようかと思ってるよ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 67",
+        "excerpt": "A: (Have) (you) (got) (plans) for this weekend? B: (I) (promised) (my) (kids) (I'd) (take) (them) (to) the amusement park."
+      }
+    },
+    {
+      "id": 107,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ report by Friday? B: ______ ______ ______ ______ ______, ______ the ______ ______ ______ tight.",
+      "answer_text": "A: Do you think you can finish the report by Friday? B: I will try my best, but the schedule is pretty tight.",
+      "blanks": [
+        "Do",
+        "you",
+        "think",
+        "you",
+        "can",
+        "finish",
+        "the",
+        "I",
+        "will",
+        "try",
+        "my",
+        "best",
+        "but",
+        "schedule",
+        "is",
+        "pretty"
+      ],
+      "japanese": "A: 金曜日までにレポートを終わらせられると思う？ B: 頑張るけど、スケジュールがかなりきついんだよね。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 72",
+        "excerpt": "A: (Why) (don't) (you) (work) (on) (it) tomorrow? B: I wish, (but) (I) (promised) (to) (finish) (it) (by) three o'clock this afternoon."
+      }
+    },
+    {
+      "id": 108,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ in the parking lot? B: ______ ______ ______ ______ ______, ______ ______ ______ ______ ______ ______ another level.",
+      "answer_text": "A: Are there any spaces left in the parking lot? B: This floor is completely full, so you will have to try another level.",
+      "blanks": [
+        "Are",
+        "there",
+        "any",
+        "spaces",
+        "left",
+        "This",
+        "floor",
+        "is",
+        "completely",
+        "full",
+        "so",
+        "you",
+        "will",
+        "have",
+        "to",
+        "try"
+      ],
+      "japanese": "A: 駐車場にまだ空きはありますか？ B: このフロアは満車なので、別の階を試してみてください。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 70",
+        "excerpt": "A: (Aren't) (you) (having) (a) (sale) (on) summer clothing? B: I'm sorry. (The) (sale) (doesn't) (start) (until) tomorrow."
+      }
+    },
+    {
+      "id": 109,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ on the project? B: ______ ______ ______, ______ ______ ______ more time to review it properly.",
+      "answer_text": "A: Have you had a chance to work on the project? B: Not quite yet, I still need more time to review it properly.",
+      "blanks": [
+        "Have",
+        "you",
+        "had",
+        "a",
+        "chance",
+        "to",
+        "work",
+        "Not",
+        "quite",
+        "yet",
+        "I",
+        "still",
+        "need"
+      ],
+      "japanese": "A: プロジェクトに取り掛かる機会はあった？ B: まだなんだ。きちんと見直すのにもう少し時間が必要なんだよ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 79",
+        "excerpt": "A: (Did) (you) (get) (a) (chance) (to) (look) (over) my report? B: I (meant) (to), but (there) (just) (hasn't) (been) any time."
+      }
+    },
+    {
+      "id": 110,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ the new colleague? B: ______ ______ ______ ______, ______ ______ ______ ______ the team quickly.",
+      "answer_text": "A: What do you think of the new colleague? B: She seems very capable, and she fit into the team quickly.",
+      "blanks": [
+        "What",
+        "do",
+        "you",
+        "think",
+        "of",
+        "She",
+        "seems",
+        "very",
+        "capable",
+        "and",
+        "she",
+        "fit",
+        "into"
+      ],
+      "japanese": "A: 新しい同僚のことどう思う？ B: とても有能そうだし、チームにもすぐ馴染んだよ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 68",
+        "excerpt": "A: You are looking (awfully) (healthy) (lately). B: I have been (on) (a) (diet), (and) (I) (started) (jogging) last week."
+      }
+    },
+    {
+      "id": 111,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ ______ ______ the train? B: ______ we ______ ______ ______ ______ ______ ______ should make it.",
+      "answer_text": "A: Do you think there is enough time to catch the train? B: If we leave right now I think we should make it.",
+      "blanks": [
+        "Do",
+        "you",
+        "think",
+        "there",
+        "is",
+        "enough",
+        "time",
+        "to",
+        "catch",
+        "If",
+        "leave",
+        "right",
+        "now",
+        "I",
+        "think",
+        "we"
+      ],
+      "japanese": "A: 電車に乗るのに十分な時間があると思う？ B: 今すぐ出れば間に合うと思うよ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 78",
+        "excerpt": "A: (Is) (there) (time) (to) (have) (a) (snack) before we board the plane? B: Don't worry. (They'll) (serve) lunch on the plane."
+      }
+    },
+    {
+      "id": 112,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ stay? B: the ______ ______ ______ ______ ______ ______ ______ ______ ______ noise at night.",
+      "answer_text": "A: How are you finding everything during your stay? B: The room is lovely, but I was bothered by the noise at night.",
+      "blanks": [
+        "How",
+        "are",
+        "you",
+        "finding",
+        "everything",
+        "during",
+        "your",
+        "room",
+        "is",
+        "lovely",
+        "but",
+        "I",
+        "was",
+        "bothered",
+        "by",
+        "the"
+      ],
+      "japanese": "A: 滞在中はどうですか？ B: 部屋はとても素敵なのですが、夜の騒音が気になりました。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 85",
+        "excerpt": "A: (How) (are) (you) (feeling) this morning? B: (Much) (better) (today), thank you."
+      }
+    },
+    {
+      "id": 113,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ ______ ______ the client? B: ______ ______ ______ ______ ______ ______ at three o'clock.",
+      "answer_text": "A: Have you been able to get in touch with the client? B: I finally reached them by phone at three o'clock.",
+      "blanks": [
+        "Have",
+        "you",
+        "been",
+        "able",
+        "to",
+        "get",
+        "in",
+        "touch",
+        "with",
+        "I",
+        "finally",
+        "reached",
+        "them",
+        "by",
+        "phone"
+      ],
+      "japanese": "A: クライアントに連絡は取れましたか？ B: ようやく3時に電話で連絡が取れました。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 74",
+        "excerpt": "A: Has (the) (delivery) (person) (been) (by) today? B: (Not) (yet), but (I) (think) (he'll) (be) here soon."
+      }
+    },
+    {
+      "id": 114,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ ______ see the doctor? B: ______, ______ ______ to ______ ______ ______ next Tuesday.",
+      "answer_text": "A: Were you able to get an appointment to see the doctor? B: Yes, they managed to fit me in next Tuesday.",
+      "blanks": [
+        "Were",
+        "you",
+        "able",
+        "to",
+        "get",
+        "an",
+        "appointment",
+        "to",
+        "Yes",
+        "they",
+        "managed",
+        "fit",
+        "me",
+        "in"
+      ],
+      "japanese": "A: お医者さんの予約は取れましたか？ B: はい、来週の火曜日に入れてもらえました。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 75",
+        "excerpt": "A: I would like (to) (book) (a) (table) (for) (eight) (o'clock). B: (Certainly). How many (in) (your) (party)?"
+      }
+    },
+    {
+      "id": 115,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ ______ ______ the fare? B: ______ ______ ______ ______ ______ an additional charge on weekends.",
+      "answer_text": "A: Do you know if there is a discount on the fare? B: I think there might be an additional charge on weekends.",
+      "blanks": [
+        "Do",
+        "you",
+        "know",
+        "if",
+        "there",
+        "is",
+        "a",
+        "discount",
+        "on",
+        "I",
+        "think",
+        "there",
+        "might",
+        "be"
+      ],
+      "japanese": "A: 運賃の割引はあるか知ってる？ B: 週末は追加料金がかかるかもしれないよ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 75",
+        "excerpt": "A: (How) (many) (stops) (is) (it) to Shinjuku Station? B: I think (the) (station) (after) (this)."
+      }
+    },
+    {
+      "id": 116,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ to ______ ______ ______ carry all of this luggage? B: ______ ______ ______ ______ ______ ______ ______ ______ ______ ______ a cart.",
+      "answer_text": "A: Are you going to be able to carry all of this luggage? B: I think I should be fine if I can find a cart.",
+      "blanks": [
+        "Are",
+        "you",
+        "going",
+        "be",
+        "able",
+        "to",
+        "I",
+        "think",
+        "I",
+        "should",
+        "be",
+        "fine",
+        "if",
+        "I",
+        "can",
+        "find"
+      ],
+      "japanese": "A: この荷物を全部持てるの？ B: カートが見つかれば大丈夫だと思うよ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 64",
+        "excerpt": "A: (Can) (I) (offer) (you) (a) (hand) (with) this suitcase? B: (I) (can) (manage) (by) (myself), thank you."
+      }
+    },
+    {
+      "id": 117,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ that new ______ place? B: ______ ______ ______ ______ ______, ______ I ______ the portions were small.",
+      "answer_text": "A: What did you end up thinking of that new Italian place? B: The pasta was absolutely wonderful, but I thought the portions were small.",
+      "blanks": [
+        "What",
+        "did",
+        "you",
+        "end",
+        "up",
+        "thinking",
+        "of",
+        "Italian",
+        "The",
+        "pasta",
+        "was",
+        "absolutely",
+        "wonderful",
+        "but",
+        "thought"
+      ],
+      "japanese": "A: あの新しいイタリアンのお店はどうだった？ B: パスタはとても素晴らしかったけど、量が少ないと思ったな。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 68",
+        "excerpt": "A: That was (the) (best) (movie) (I've) (seen) (in) (a) (long) (time). B: Personally, I thought it was (a) (bit) (sentimental)."
+      }
+    },
+    {
+      "id": 118,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ ______ ______ ______ here? B: ______ ______ ______ ______ ______ about three years ago.",
+      "answer_text": "A: Did you happen to know when they first opened up here? B: I believe they started up about three years ago.",
+      "blanks": [
+        "Did",
+        "you",
+        "happen",
+        "to",
+        "know",
+        "when",
+        "they",
+        "first",
+        "opened",
+        "up",
+        "I",
+        "believe",
+        "they",
+        "started",
+        "up"
+      ],
+      "japanese": "A: ここがいつオープンしたか知ってる？ B: 確か3年ほど前に始まったと思うよ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 77",
+        "excerpt": "A: (Did) (you) (happen) (to) (hear) (when) (he) (said) (he) (was) coming here? B: I think it's (the) (day) (after) (tomorrow)."
+      }
+    },
+    {
+      "id": 119,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ ______ ______ this weekend? B: ______ ______ ______ ______ ______ ______ ______ ______ my brother.",
+      "answer_text": "A: Is there anything special you are looking forward to this weekend? B: I am really excited about going fishing with my brother.",
+      "blanks": [
+        "Is",
+        "there",
+        "anything",
+        "special",
+        "you",
+        "are",
+        "looking",
+        "forward",
+        "to",
+        "I",
+        "am",
+        "really",
+        "excited",
+        "about",
+        "going",
+        "fishing",
+        "with"
+      ],
+      "japanese": "A: 今週末、何か楽しみにしていることはある？ B: 兄と釣りに行くのがとても楽しみだよ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 81",
+        "excerpt": "A: Why don't we go see (that) (new) (science) (fiction) (film)? B: Oh yes, I've been (wanting) (to) (see) (it) (ever) (since) I read the book."
+      }
+    },
+    {
+      "id": 120,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ the flight ______ delayed? B: ______ ______ ______ ______ ______ ______ ______ ______ two hours behind schedule.",
+      "answer_text": "A: Do you have any information about the flight being delayed? B: I just heard that it is running about two hours behind schedule.",
+      "blanks": [
+        "Do",
+        "you",
+        "have",
+        "any",
+        "information",
+        "about",
+        "being",
+        "I",
+        "just",
+        "heard",
+        "that",
+        "it",
+        "is",
+        "running",
+        "about"
+      ],
+      "japanese": "A: フライトの遅延について何か情報はありますか？ B: 今聞いたところ、スケジュールより約2時間遅れているようです。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 86",
+        "excerpt": "A: (Where) (have) (you) (been)? The meeting started (half) (an) (hour) (ago)! B: Sorry. I gave myself (two) (hours) (to) (get) (here) but (I) (got) (caught) (in) (traffic)."
+      }
+    },
+    {
+      "id": 121,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ the new manager? B: ______ ______ ______ ______ ______ pretty strict.",
+      "answer_text": "A: What do you think of the new manager? B: Everyone seems to find him pretty strict.",
+      "blanks": [
+        "What",
+        "do",
+        "you",
+        "think",
+        "of",
+        "Everyone",
+        "seems",
+        "to",
+        "find",
+        "him"
+      ],
+      "japanese": "A: 新しいマネージャーのことどう思う？ B: みんな彼はかなり厳しいと思っているみたいだよ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 76",
+        "excerpt": "A: (Wasn't) (that) (dinner) (terrible)? B: (I) (certainly) (won't) (be) (coming) (back) (to) this restaurant."
+      }
+    },
+    {
+      "id": 122,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ the office party? B: ______ ______ ______ ______ ______ ______ next Friday.",
+      "answer_text": "A: Have you heard about the office party? B: I think it is scheduled for next Friday.",
+      "blanks": [
+        "Have",
+        "you",
+        "heard",
+        "about",
+        "I",
+        "think",
+        "it",
+        "is",
+        "scheduled",
+        "for"
+      ],
+      "japanese": "A: 職場のパーティーのこと聞いた？ B: 来週の金曜日に予定されてると思うよ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 62",
+        "excerpt": "A: (Will) (you) (call) (me) (on) Thursday? B: I will be (out) (of) (town) (that) (day)."
+      }
+    },
+    {
+      "id": 123,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ the station? B: ______ ______ ______ ______ ______ ______ by bus.",
+      "answer_text": "A: Is there a faster way to reach the station? B: You could probably get there faster by bus.",
+      "blanks": [
+        "Is",
+        "there",
+        "a",
+        "faster",
+        "way",
+        "to",
+        "reach",
+        "You",
+        "could",
+        "probably",
+        "get",
+        "there",
+        "faster"
+      ],
+      "japanese": "A: 駅まで行くもっと速い方法はありますか？ B: バスの方がたぶん早く行けますよ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 75",
+        "excerpt": "A: (How) (many) (stops) (is) (it) to Shinjuku Station? B: I think (the) (station) (after) (this)."
+      }
+    },
+    {
+      "id": 124,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ ______ ______ ______ B: ______ ______ ______ ______, but ______ ______ to ______ early.",
+      "answer_text": "A: Would you like to grab a drink with us tonight? B: I would love to, but I have to leave early.",
+      "blanks": [
+        "Would",
+        "you",
+        "like",
+        "to",
+        "grab",
+        "a",
+        "drink",
+        "with",
+        "us",
+        "tonight",
+        "I",
+        "would",
+        "love",
+        "to",
+        "I",
+        "have",
+        "leave"
+      ],
+      "japanese": "A: 今夜一緒に飲みに行かない？ B: ぜひそうしたいけど、早めに帰らないといけないんだ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 69",
+        "excerpt": "A: Would you like (a) (piece) (of) (cheesecake) (for) (dessert)? B: It sounds (tempting), but (I) (think) (I'll) (pass)."
+      }
+    },
+    {
+      "id": 125,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ in Tokyo? B: ______ ______ ______ ______ ______ three years.",
+      "answer_text": "A: How long have you been living in Tokyo? B: It has been just over three years.",
+      "blanks": [
+        "How",
+        "long",
+        "have",
+        "you",
+        "been",
+        "living",
+        "It",
+        "has",
+        "been",
+        "just",
+        "over"
+      ],
+      "japanese": "A: 東京に住んでどのくらいになりますか？ B: ちょうど3年を少し過ぎたところです。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 80",
+        "excerpt": "A: How long (have) (you) (been) (with) (the) (company) now? B: (No) (more) (than) (half) (a) (year)."
+      }
+    },
+    {
+      "id": 126,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ the budget? B: ______ ______ ______ ______ yet, ______ ______ ______ ______ ______ more time.",
+      "answer_text": "A: Have you had a look at the budget? B: I have not finished yet, I still need a little more time.",
+      "blanks": [
+        "Have",
+        "you",
+        "had",
+        "a",
+        "look",
+        "at",
+        "I",
+        "have",
+        "not",
+        "finished",
+        "I",
+        "still",
+        "need",
+        "a",
+        "little"
+      ],
+      "japanese": "A: 予算を確認しましたか？ B: まだ終わっていないんです、もう少し時間が必要です。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 72",
+        "excerpt": "A: Have you finished (writing) (those) (reports) yet? B: (They) (are) (almost) (done)."
+      }
+    },
+    {
+      "id": 127,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ the new coffee shop? B: ______ ______ ______ ______ ______ ______ ______ try it.",
+      "answer_text": "A: Have you been to the new coffee shop? B: Not yet, but I am planning to try it.",
+      "blanks": [
+        "Have",
+        "you",
+        "been",
+        "to",
+        "Not",
+        "yet",
+        "but",
+        "I",
+        "am",
+        "planning",
+        "to"
+      ],
+      "japanese": "A: 新しいコーヒーショップには行きましたか？ B: まだですが、行ってみようと思っています。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 76",
+        "excerpt": "A: (Have) (you) (ever) (visited) France? B: No, (but) (I) (hope) (to) (go) (there) (soon)."
+      }
+    },
+    {
+      "id": 128,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ the weekend? B: ______ ______ ______ ______ ______ ______ ______ family.",
+      "answer_text": "A: Did you end up doing anything over the weekend? B: I spent most of it with my family.",
+      "blanks": [
+        "Did",
+        "you",
+        "end",
+        "up",
+        "doing",
+        "anything",
+        "over",
+        "I",
+        "spent",
+        "most",
+        "of",
+        "it",
+        "with",
+        "my"
+      ],
+      "japanese": "A: 週末は結局何かしましたか？ B: ほとんどの時間を家族と過ごしました。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 66",
+        "excerpt": "A: (Why) (were) (you) (in) Chicago? B: (I) (went) (to) (see) my parents."
+      }
+    },
+    {
+      "id": 129,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ the seminar? B: ______ ______ ______ ______ a lot of ______ ______ ______ ______.",
+      "answer_text": "A: What did you think of the seminar? B: I thought there were a lot of useful things to learn.",
+      "blanks": [
+        "What",
+        "did",
+        "you",
+        "think",
+        "of",
+        "I",
+        "thought",
+        "there",
+        "were",
+        "useful",
+        "things",
+        "to",
+        "learn"
+      ],
+      "japanese": "A: セミナーはどうでしたか？ B: 学ぶべき有益なことがたくさんあると思いました。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 68",
+        "excerpt": "A: That was (the) (best) (movie) (I've) (seen) (in) (a) (long) (time). B: Personally, I thought it was (a) (bit) (sentimental)."
+      }
+    },
+    {
+      "id": 130,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ a ______ seat? B: ______ ______ ______ ______ ______, ______ ______ ______ window ______ ______ ______ ______.",
+      "answer_text": "A: Could I possibly request a window seat? B: I will check for you, but all the window seats may be taken.",
+      "blanks": [
+        "Could",
+        "I",
+        "possibly",
+        "request",
+        "window",
+        "I",
+        "will",
+        "check",
+        "for",
+        "you",
+        "but",
+        "all",
+        "the",
+        "seats",
+        "may",
+        "be",
+        "taken"
+      ],
+      "japanese": "A: 窓側の席をお願いできますか？ B: 確認しますが、窓側の席はすべて埋まっているかもしれません。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 75",
+        "excerpt": "A: I would like (to) (book) (a) (table) (for) (eight) (o'clock). B: (Certainly). How many (in) (your) (party)?"
+      }
+    },
+    {
+      "id": 131,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ new employee? B: ______ ______ ______ ______, ______ ______ ______ ______ the ______ quickly.",
+      "answer_text": "A: What do you think about the new employee? B: She is very capable, and she picked up the work quickly.",
+      "blanks": [
+        "What",
+        "do",
+        "you",
+        "think",
+        "about",
+        "the",
+        "She",
+        "is",
+        "very",
+        "capable",
+        "and",
+        "she",
+        "picked",
+        "up",
+        "work"
+      ],
+      "japanese": "A: 新入社員についてどう思いますか？ B: とても有能で、仕事をすぐに覚えましたよ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 81",
+        "excerpt": "A: I didn't know (you) (and) (my) (cousin) (were) friends. B: We are not (so) (close). I met him (only) (two) (weeks) (ago)."
+      }
+    },
+    {
+      "id": 132,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ before the show? B: ______ ______ ______ ______ something ______ ______ on the way.",
+      "answer_text": "A: Is there enough time to have dinner before the show? B: We could probably grab something to eat on the way.",
+      "blanks": [
+        "Is",
+        "there",
+        "enough",
+        "time",
+        "to",
+        "have",
+        "dinner",
+        "We",
+        "could",
+        "probably",
+        "grab",
+        "to",
+        "eat"
+      ],
+      "japanese": "A: ショーの前に夕食をとる時間はありますか？ B: 途中で何か食べられると思いますよ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 78",
+        "excerpt": "A: (Is) (there) (time) (to) (have) (a) (snack) before we board the plane? B: Don't worry. (They'll) (serve) lunch on the plane."
+      }
+    },
+    {
+      "id": 133,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ ______ ______ ______ the dry cleaner's? B: ______ ______ ______ ______ ______ ______ by Thursday.",
+      "answer_text": "A: When do I need to pick up my suit from the dry cleaner's? B: They said it should be ready by Thursday.",
+      "blanks": [
+        "When",
+        "do",
+        "I",
+        "need",
+        "to",
+        "pick",
+        "up",
+        "my",
+        "suit",
+        "from",
+        "They",
+        "said",
+        "it",
+        "should",
+        "be",
+        "ready"
+      ],
+      "japanese": "A: クリーニング屋にスーツを取りに行くのはいつまでにしないといけないの？ B: 木曜日までには準備できると言っていましたよ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 79",
+        "excerpt": "A: When (do) (I) (have) (to) (pay) (this) (bill)? B: Anytime (after) (the) (fifteenth) (of) (the) (month)."
+      }
+    },
+    {
+      "id": 134,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ going to the gym? B: ______ ______ ______ ______ , ______ ______ ______ ______ ______ ______ lately.",
+      "answer_text": "A: Don't you ever get bored with going to the gym? B: Not really at all, I have been really enjoying it lately.",
+      "blanks": [
+        "Don't",
+        "you",
+        "ever",
+        "get",
+        "bored",
+        "with",
+        "Not",
+        "really",
+        "at",
+        "all",
+        "I",
+        "have",
+        "been",
+        "really",
+        "enjoying",
+        "it"
+      ],
+      "japanese": "A: ジムに行くのに飽きることはないの？ B: 全然ないよ、最近すごく楽しんでいるんだ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 77",
+        "excerpt": "A: Don't you get tired (of) (always) (being) (on) (the) (road)? B: (Not) (at) (all). I like (traveling)..."
+      }
+    },
+    {
+      "id": 135,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ ______ ______ ______ concert. B: ______ ______, ______ ______ ______ ______ the ______.",
+      "answer_text": "A: I was surprised by how crowded it was at the concert. B: I know, I could barely see the stage.",
+      "blanks": [
+        "I",
+        "was",
+        "surprised",
+        "by",
+        "how",
+        "crowded",
+        "it",
+        "was",
+        "at",
+        "the",
+        "I",
+        "know",
+        "I",
+        "could",
+        "barely",
+        "see",
+        "stage"
+      ],
+      "japanese": "A: コンサートがあんなに混んでいたのには驚きました。 B: そうですね、ステージがほとんど見えませんでした。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 68",
+        "excerpt": "A: That was (the) (best) (movie) (I've) (seen) (in) (a) (long) (time). B: Personally, I thought it was (a) (bit) (sentimental)."
+      }
+    },
+    {
+      "id": 136,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ ______ ______ ______ deadline? B: ______ ______ ______, ______ ______ ______ ______ ______ ______ ______ tonight.",
+      "answer_text": "A: Do you think you can wrap it up before the deadline? B: I hope so, but I may need to stay late tonight.",
+      "blanks": [
+        "Do",
+        "you",
+        "think",
+        "you",
+        "can",
+        "wrap",
+        "it",
+        "up",
+        "before",
+        "the",
+        "I",
+        "hope",
+        "so",
+        "but",
+        "I",
+        "may",
+        "need",
+        "to",
+        "stay",
+        "late"
+      ],
+      "japanese": "A: 締め切りまでに仕上げられると思いますか？ B: そうしたいですが、今夜は遅くまで残業しないといけないかもしれません。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 83",
+        "excerpt": "A: (With) (the) (traffic) (like) (this), I'm afraid (we) (will) (never) (get) (to) the airport by 11:00."
+      }
+    },
+    {
+      "id": 137,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ good restaurants ______ ______? B: ______ ______ a ______ ______ Italian place ______ ______ ______ ______.",
+      "answer_text": "A: Do you know of any good restaurants around here? B: There is a really nice Italian place just down the street.",
+      "blanks": [
+        "Do",
+        "you",
+        "know",
+        "of",
+        "any",
+        "around",
+        "here",
+        "There",
+        "is",
+        "really",
+        "nice",
+        "just",
+        "down",
+        "the",
+        "street"
+      ],
+      "japanese": "A: この辺りに何かいいレストランはありますか？ B: すぐそこの通りにとても素敵なイタリアンレストランがありますよ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 64",
+        "excerpt": "A: (Why) (don't) (we) (drive) (out) to the ocean? B: (Sounds) (like) a good idea (to) (me)."
+      }
+    },
+    {
+      "id": 138,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ the conference call? B: ______ ______ ______, ______ ______ ______ ______ ______ issues.",
+      "answer_text": "A: How did things go during the conference call? B: Not too bad, but there were some connection issues.",
+      "blanks": [
+        "How",
+        "did",
+        "things",
+        "go",
+        "during",
+        "Not",
+        "too",
+        "bad",
+        "but",
+        "there",
+        "were",
+        "some",
+        "connection"
+      ],
+      "japanese": "A: 電話会議はどうでしたか？ B: まあまあでしたが、接続の問題がいくつかありました。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 85",
+        "excerpt": "A: (How) (are) (you) (feeling) this morning? B: (Much) (better) (today), thank you."
+      }
+    },
+    {
+      "id": 139,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ your old neighborhood? B: ______ ______ ______, ______ ______ ______ ______ ______ ______ ______ ______ area.",
+      "answer_text": "A: Do you ever miss living in your old neighborhood? B: I do sometimes, but I have really gotten used to this area.",
+      "blanks": [
+        "Do",
+        "you",
+        "ever",
+        "miss",
+        "living",
+        "in",
+        "I",
+        "do",
+        "sometimes",
+        "but",
+        "I",
+        "have",
+        "really",
+        "gotten",
+        "used",
+        "to",
+        "this"
+      ],
+      "japanese": "A: 前の近所に住んでいたことが懐かしく思うことはありますか？ B: 時々そう思いますが、このエリアにもすっかり慣れました。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 77",
+        "excerpt": "A: Don't you get tired (of) (always) (being) (on) (the) (road)? B: (Not) (at) (all). I like (traveling)..."
+      }
+    },
+    {
+      "id": 140,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ ______ taxi? B: ______ ______ ______ a ______, ______ ______ ______ ______ ______ none available.",
+      "answer_text": "A: Were you able to get hold of a taxi? B: I tried for a while, but it seems there were none available.",
+      "blanks": [
+        "Were",
+        "you",
+        "able",
+        "to",
+        "get",
+        "hold",
+        "of",
+        "a",
+        "I",
+        "tried",
+        "for",
+        "while",
+        "but",
+        "it",
+        "seems",
+        "there",
+        "were"
+      ],
+      "japanese": "A: タクシーをつかまえることができましたか？ B: しばらく試みましたが、空車がなかったようです。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 85",
+        "excerpt": "A: (How) (can) (I) (get) (to) the hotel? B: (If) (you) (can) (find) (a) (taxi), (you) (won't) (have) any problems."
+      }
+    },
+    {
+      "id": 141,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ the company picnic? B: ______ ______ ______ ______ ______ ______ Saturday.",
+      "answer_text": "A: Have you heard anything about the company picnic? B: I believe it is scheduled for Saturday.",
+      "blanks": [
+        "Have",
+        "you",
+        "heard",
+        "anything",
+        "about",
+        "I",
+        "believe",
+        "it",
+        "is",
+        "scheduled",
+        "for"
+      ],
+      "japanese": "A: 会社のピクニックについて何か聞いた？ B: 土曜日に予定されていると思うよ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 62",
+        "excerpt": "A: (Will) (you) (call) (me) (on) Thursday? B: I will be (out) (of) (town) (that) (day)."
+      }
+    },
+    {
+      "id": 142,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ the new software? B: ______ ______ ______ ______ ______ a few days.",
+      "answer_text": "A: Are you having trouble with the new software? B: It should be fixed within a few days.",
+      "blanks": [
+        "Are",
+        "you",
+        "having",
+        "trouble",
+        "with",
+        "It",
+        "should",
+        "be",
+        "fixed",
+        "within"
+      ],
+      "japanese": "A: 新しいソフトウェアで困っているの？ B: 数日以内に直るはずだよ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 63",
+        "excerpt": "A: Would you mind (passing) (the) (salt) (and) (pepper)? B: (Here) (you) (are)."
+      }
+    },
+    {
+      "id": 143,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ this ______ B: ______ a ______, it looks great on you.",
+      "answer_text": "A: Do you think I should buy this jacket? B: Without a doubt, it looks great on you.",
+      "blanks": [
+        "Do",
+        "you",
+        "think",
+        "I",
+        "should",
+        "buy",
+        "jacket",
+        "Without",
+        "doubt"
+      ],
+      "japanese": "A: このジャケット、買った方がいいと思う？ B: 間違いなく、すごく似合ってるよ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 64",
+        "excerpt": "A: (Can) (I) (offer) (you) (a) (hand) (with) this suitcase? B: (I) (can) (manage) (by) (myself), thank you."
+      }
+    },
+    {
+      "id": 144,
+      "level": "level3",
+      "question_text": "A: ______ ______ the ______ ______ ______ ______ ______ airport? B: ______ ______ ______ ______ ______ take the express train.",
+      "answer_text": "A: What is the best way to reach the airport? B: I would strongly suggest you take the express train.",
+      "blanks": [
+        "What",
+        "is",
+        "best",
+        "way",
+        "to",
+        "reach",
+        "the",
+        "I",
+        "would",
+        "strongly",
+        "suggest",
+        "you"
+      ],
+      "japanese": "A: 空港へ行くのに一番いい方法は何ですか？ B: 急行電車に乗ることを強くお勧めします。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 65",
+        "excerpt": "A: (What) (do) (you) (have) in your pockets? B: Just (my) (car) (keys) (and) (my) (wallet)."
+      }
+    },
+    {
+      "id": 145,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ training session? B: ______, ______ ______ ______ ______ it was quite useful.",
+      "answer_text": "A: What did you think of the training session? B: Honestly, I have to say it was quite useful.",
+      "blanks": [
+        "What",
+        "did",
+        "you",
+        "think",
+        "of",
+        "the",
+        "Honestly",
+        "I",
+        "have",
+        "to",
+        "say"
+      ],
+      "japanese": "A: 研修についてどう思いましたか？ B: 正直、かなり役に立ったと思います。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 66",
+        "excerpt": "A: (Have) (you) (ever) (visited) France? B: No, (but) (I) (hope) (to) (go) (there) (soon)."
+      }
+    },
+    {
+      "id": 146,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ the children? B: ______ ______ ______ ______ ______ my mother's place.",
+      "answer_text": "A: Where are you planning to leave the children? B: I will drop them at my mother's place.",
+      "blanks": [
+        "Where",
+        "are",
+        "you",
+        "planning",
+        "to",
+        "leave",
+        "I",
+        "will",
+        "drop",
+        "them",
+        "at"
+      ],
+      "japanese": "A: 子供たちをどこに預ける予定なの？ B: お母さんの家に送っていくよ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 67",
+        "excerpt": "A: Could I have (a) (dozen) (chocolate) (donuts)? B: Of course. (Anything) (else) (for) (you) today?"
+      }
+    },
+    {
+      "id": 147,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ the neighborhood? B: ______ ______ ______ ______ ______ here for ten years.",
+      "answer_text": "A: How long have you been living around the neighborhood? B: I have actually been living here for ten years.",
+      "blanks": [
+        "How",
+        "long",
+        "have",
+        "you",
+        "been",
+        "living",
+        "around",
+        "I",
+        "have",
+        "actually",
+        "been",
+        "living"
+      ],
+      "japanese": "A: この辺りに住んでどれくらいになりますか？ B: 実はもう10年間ここに住んでいます。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 68",
+        "excerpt": "A: You are looking (awfully) (healthy) (lately). B: I have been (on) (a) (diet), (and) (I) (started) (jogging) last week."
+      }
+    },
+    {
+      "id": 148,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ proposal? B: ______ ______ ______ ______ make any changes.",
+      "answer_text": "A: Did the client say anything about the proposal? B: They asked us to make any changes.",
+      "blanks": [
+        "Did",
+        "the",
+        "client",
+        "say",
+        "anything",
+        "about",
+        "the",
+        "They",
+        "asked",
+        "us",
+        "to"
+      ],
+      "japanese": "A: クライアントは提案書について何か言っていましたか？ B: 変更を加えてほしいと言っていました。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 69",
+        "excerpt": "A: I'd like (two) (tickets) (for) (the) (two) (o'clock) (show). B: I am afraid (all) (the) (shows) (for) (today) (have) (been) (sold) (out)."
+      }
+    },
+    {
+      "id": 149,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ the gym these days? B: ______ ______ ______ ______ every other morning.",
+      "answer_text": "A: How often are you going to the gym these days? B: I have been going every other morning.",
+      "blanks": [
+        "How",
+        "often",
+        "are",
+        "you",
+        "going",
+        "to",
+        "I",
+        "have",
+        "been",
+        "going"
+      ],
+      "japanese": "A: 最近ジムにはどのくらい行っていますか？ B: 一日おきに朝行っています。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 70",
+        "excerpt": "A: You are (putting) (off) your trip again, aren't you? B: I'm afraid (I) (have) (no) (choice)."
+      }
+    },
+    {
+      "id": 150,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ ______ ______ the renovation? B: ______ ______ ______ ______ ______ three more weeks.",
+      "answer_text": "A: Do you have any idea when they will finish the renovation? B: I think it will take three more weeks.",
+      "blanks": [
+        "Do",
+        "you",
+        "have",
+        "any",
+        "idea",
+        "when",
+        "they",
+        "will",
+        "finish",
+        "I",
+        "think",
+        "it",
+        "will",
+        "take"
+      ],
+      "japanese": "A: 改装はいつ終わるか分かりますか？ B: あと3週間はかかると思います。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 71",
+        "excerpt": "A: Excuse me, (could) (you) (direct) (me) to (the) (nearest) (men's) (room)? B: The rest rooms (are) (located) on the second floor."
+      }
+    },
+    {
+      "id": 151,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ tonight's dinner? B: ______ ______ ______ ______ ______ ______ Japanese food.",
+      "answer_text": "A: Have you decided on a place for tonight's dinner? B: I was thinking we could try Japanese food.",
+      "blanks": [
+        "Have",
+        "you",
+        "decided",
+        "on",
+        "a",
+        "place",
+        "for",
+        "I",
+        "was",
+        "thinking",
+        "we",
+        "could",
+        "try"
+      ],
+      "japanese": "A: 今夜の夕食はどこにするか決めた？ B: 和食にしようかなと思っていたんだけど。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 72",
+        "excerpt": "A: Have you finished (writing) (those) (reports) yet? B: (They) (are) (almost) (done)."
+      }
+    },
+    {
+      "id": 152,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ on the project this week? B: ______ ______ ______ ______ ______ ______ ______ the deadline coming up.",
+      "answer_text": "A: How much progress have you made on the project this week? B: Not as much as I hoped with the deadline coming up.",
+      "blanks": [
+        "How",
+        "much",
+        "progress",
+        "have",
+        "you",
+        "made",
+        "Not",
+        "as",
+        "much",
+        "as",
+        "I",
+        "hoped",
+        "with"
+      ],
+      "japanese": "A: 今週のプロジェクトの進捗はどうですか？ B: 締め切りが近づいているのに、思ったほど進んでいません。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 73",
+        "excerpt": "A: (May) (I) (give) Mr. Kato (your) (message)? B: (Just) (tell) (him) (I) (called)."
+      }
+    },
+    {
+      "id": 153,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ the new restaurant downtown? B: ______ ______ ______ ______ ______ but the service was slow.",
+      "answer_text": "A: What did you end up thinking about the new restaurant downtown? B: The food was quite delicious but the service was slow.",
+      "blanks": [
+        "What",
+        "did",
+        "you",
+        "end",
+        "up",
+        "thinking",
+        "about",
+        "The",
+        "food",
+        "was",
+        "quite",
+        "delicious"
+      ],
+      "japanese": "A: 繁華街の新しいレストランはどうでしたか？ B: 料理はとても美味しかったけど、サービスが遅かったです。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 74",
+        "excerpt": "A: (Did) (you) (hear) (about) (that) (terrible) accident? B: (I) (read) (about) (it) (in) the newspaper."
+      }
+    },
+    {
+      "id": 154,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ to see the doctor? B: ______ ______ ______ ______ ______ ______ next Monday morning.",
+      "answer_text": "A: When are you finally going to see the doctor? B: I managed to get an appointment next Monday morning.",
+      "blanks": [
+        "When",
+        "are",
+        "you",
+        "finally",
+        "going",
+        "I",
+        "managed",
+        "to",
+        "get",
+        "an",
+        "appointment"
+      ],
+      "japanese": "A: いつ医者に診てもらうの？ B: 来週の月曜日の朝に予約が取れました。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 75",
+        "excerpt": "A: (How) (many) (stops) (is) (it) to Shinjuku Station? B: I think (the) (station) (after) (this)."
+      }
+    },
+    {
+      "id": 155,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ for the ______ B: ______ ______ ______ ______ ______ a ______ ______ the countryside.",
+      "answer_text": "A: Do you have anything special in mind for the holidays? B: I am thinking of renting a cottage in the countryside.",
+      "blanks": [
+        "Do",
+        "you",
+        "have",
+        "anything",
+        "special",
+        "in",
+        "mind",
+        "holidays",
+        "I",
+        "am",
+        "thinking",
+        "of",
+        "renting",
+        "cottage",
+        "in"
+      ],
+      "japanese": "A: 休暇に何か特別なことを考えていますか？ B: 田舎でコテージを借りようかと思っています。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 76",
+        "excerpt": "A: (Haven't) (we) (met) (somewhere) before? B: (Perhaps) (at) (the) (conference) last year."
+      }
+    },
+    {
+      "id": 156,
+      "level": "level3",
+      "question_text": "A: Don't ______ think ______ ______ ______ ______ ______ ______ ______ ______? B: ______ ______ you ______ ______, but ______ ______ ______ ______ ______.",
+      "answer_text": "A: Don't you think it is time we left for the station? B: I suppose you are right, but let me finish this email.",
+      "blanks": [
+        "you",
+        "it",
+        "is",
+        "time",
+        "we",
+        "left",
+        "for",
+        "the",
+        "station",
+        "I",
+        "suppose",
+        "are",
+        "right",
+        "let",
+        "me",
+        "finish",
+        "this",
+        "email"
+      ],
+      "japanese": "A: そろそろ駅に向かった方がいいんじゃないかな？ B: そうだと思うけど、このメールを書き終わらせてください。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 77",
+        "excerpt": "A: Don't you get tired (of) (always) (being) (on) (the) (road)? B: (Not) (at) (all). I like (traveling)."
+      }
+    },
+    {
+      "id": 157,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ ______ the concert last night? B: ______ ______ ______ ______ ______, ______ ______ ______ ______.",
+      "answer_text": "A: How did you manage to get tickets for the concert last night? B: I booked them online early, before they sold out.",
+      "blanks": [
+        "How",
+        "did",
+        "you",
+        "manage",
+        "to",
+        "get",
+        "tickets",
+        "for",
+        "I",
+        "booked",
+        "them",
+        "online",
+        "early",
+        "before",
+        "they",
+        "sold",
+        "out"
+      ],
+      "japanese": "A: 昨夜のコンサートのチケットはどうやって手に入れたの？ B: 売り切れる前にオンラインで早めに買ったんだよ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 78",
+        "excerpt": "A: How long (will) (you) (be) (using) (the) (car)? B: I'd like (to) (keep) (it) (until) (the) (end) (of) (this) (month)."
+      }
+    },
+    {
+      "id": 158,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ ______ my request? B: ______ ______ ______ ______ ______ ______ ______ ______ ______ next week.",
+      "answer_text": "A: Have you had the chance to look over my request? B: Not just yet, but I should get to it next week.",
+      "blanks": [
+        "Have",
+        "you",
+        "had",
+        "the",
+        "chance",
+        "to",
+        "look",
+        "over",
+        "Not",
+        "just",
+        "yet",
+        "but",
+        "I",
+        "should",
+        "get",
+        "to",
+        "it"
+      ],
+      "japanese": "A: 私のリクエストを確認していただく機会はありましたか？ B: まだなんですが、来週には確認できると思います。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 79",
+        "excerpt": "A: (Did) (you) (get) (a) (chance) (to) (look) (over) my report? B: I (meant) (to), but (there) (just) (hasn't) (been) any time."
+      }
+    },
+    {
+      "id": 159,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ your new role? B: ______ ______ ______ ______ ______, ______ ______ ______ ______ to ______ the hang of it.",
+      "answer_text": "A: How are you finding the transition to your new role? B: It is a bit challenging, but I am starting to get the hang of it.",
+      "blanks": [
+        "How",
+        "are",
+        "you",
+        "finding",
+        "the",
+        "transition",
+        "to",
+        "It",
+        "is",
+        "a",
+        "bit",
+        "challenging",
+        "but",
+        "I",
+        "am",
+        "starting",
+        "get"
+      ],
+      "japanese": "A: 新しい役職への移行はどんな感じですか？ B: 少し大変ですが、だんだんコツをつかんできています。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 80",
+        "excerpt": "A: How long (have) (you) (been) (with) (the) (company) now? B: (No) (more) (than) (half) (a) (year)."
+      }
+    },
+    {
+      "id": 160,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ the supplies we ordered? B: ______ ______ ______ ______ ______ ______ ______ Thursday.",
+      "answer_text": "A: Do you know if they have shipped the supplies we ordered? B: I was told they should arrive by Thursday.",
+      "blanks": [
+        "Do",
+        "you",
+        "know",
+        "if",
+        "they",
+        "have",
+        "shipped",
+        "I",
+        "was",
+        "told",
+        "they",
+        "should",
+        "arrive",
+        "by"
+      ],
+      "japanese": "A: 注文した備品はもう発送されましたか？ B: 木曜日までに届くと聞いています。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 81",
+        "excerpt": "A: Are you sure (there'll) (be) (someone) (there) (to) (meet) (us)? B: They (promised) (there) (would) (be)."
+      }
+    },
+    {
+      "id": 161,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ the interview? B: ______ ______ ______ ______ ______, but ______ ______ ______ a little nervous.",
+      "answer_text": "A: How do you feel about the interview? B: I think I am ready, but I am still a little nervous.",
+      "blanks": [
+        "How",
+        "do",
+        "you",
+        "feel",
+        "about",
+        "I",
+        "think",
+        "I",
+        "am",
+        "ready",
+        "I",
+        "am",
+        "still"
+      ],
+      "japanese": "A: 面接についてどう感じてる？ B: 準備はできてると思うけど、まだちょっと緊張してる。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 62",
+        "excerpt": "A: (Will) (you) (call) (me) (on) Thursday? B: I will be (out) (of) (town) (that) (day)."
+      }
+    },
+    {
+      "id": 162,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ ______ ______ ______ the package? B: ______ ______ ______ ______ ______ ______ ______ the front desk.",
+      "answer_text": "A: Do you have any idea where I can pick up the package? B: I believe you can collect it at the front desk.",
+      "blanks": [
+        "Do",
+        "you",
+        "have",
+        "any",
+        "idea",
+        "where",
+        "I",
+        "can",
+        "pick",
+        "up",
+        "I",
+        "believe",
+        "you",
+        "can",
+        "collect",
+        "it",
+        "at"
+      ],
+      "japanese": "A: 荷物はどこで受け取れるか分かりますか？ B: フロントデスクで受け取れると思いますよ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 63",
+        "excerpt": "A: Would you mind (passing) (the) (salt) (and) (pepper)? B: (Here) (you) (are)."
+      }
+    },
+    {
+      "id": 163,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ ______ this evening? B: ______ ______ ______ ______, ______ ______ ______ ______ ______ a headache.",
+      "answer_text": "A: Would you like to join us for dinner this evening? B: I wish I could, but I have been having a headache.",
+      "blanks": [
+        "Would",
+        "you",
+        "like",
+        "to",
+        "join",
+        "us",
+        "for",
+        "dinner",
+        "I",
+        "wish",
+        "I",
+        "could",
+        "but",
+        "I",
+        "have",
+        "been",
+        "having"
+      ],
+      "japanese": "A: 今晩一緒に夕食はいかがですか？ B: 行きたいんですけど、頭痛がしているので。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 63",
+        "excerpt": "A: (Why) (don't) (we) (drive) (out) to the ocean? B: (Sounds) (like) a good idea (to) (me)."
+      }
+    },
+    {
+      "id": 164,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ so early? B: ______ ______ ______ ______ ______ ______ ______ before the rush hour.",
+      "answer_text": "A: Why do you always have to leave so early? B: I want to get to the office before the rush hour.",
+      "blanks": [
+        "Why",
+        "do",
+        "you",
+        "always",
+        "have",
+        "to",
+        "leave",
+        "I",
+        "want",
+        "to",
+        "get",
+        "to",
+        "the",
+        "office"
+      ],
+      "japanese": "A: なんでいつもそんなに早く出なきゃいけないの？ B: ラッシュアワー前に会社に着きたいんだよ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 64",
+        "excerpt": "A: (Can) (I) (offer) (you) (a) (hand) (with) this suitcase? B: (I) (can) (manage) (by) (myself), thank you."
+      }
+    },
+    {
+      "id": 165,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ lunch today? B: I ______ ______ ______ ______ ______ skipped breakfast.",
+      "answer_text": "A: Are you hungry enough for lunch today? B: I am absolutely starving because I skipped breakfast.",
+      "blanks": [
+        "Are",
+        "you",
+        "hungry",
+        "enough",
+        "for",
+        "am",
+        "absolutely",
+        "starving",
+        "because",
+        "I"
+      ],
+      "japanese": "A: 今日はお昼ご飯食べるくらいお腹空いてる？ B: 朝食を抜いたから、すごくお腹が空いてるよ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 65",
+        "excerpt": "A: (What) (do) (you) (have) in your pockets? B: Just (my) (car) (keys) (and) (my) (wallet)."
+      }
+    },
+    {
+      "id": 166,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ the report by Friday? B: ______ ______, ______ ______ ______ ______ ______ ______ ______ some help.",
+      "answer_text": "A: Do you think you can finish the report by Friday? B: Probably yes, but I might need to ask for some help.",
+      "blanks": [
+        "Do",
+        "you",
+        "think",
+        "you",
+        "can",
+        "finish",
+        "Probably",
+        "yes",
+        "but",
+        "I",
+        "might",
+        "need",
+        "to",
+        "ask",
+        "for"
+      ],
+      "japanese": "A: 金曜日までにレポートを仕上げられそう？ B: たぶんできると思うけど、誰かに助けを求める必要があるかもしれない。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 66",
+        "excerpt": "A: (Did) (you) (hear) (about) (that) (terrible) accident? B: (I) (read) (about) (it) (in) the newspaper."
+      }
+    },
+    {
+      "id": 167,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ for a table for two? B: ______ ______ ______ ______ ______ thirty minutes.",
+      "answer_text": "A: How long do we have to wait for a table for two? B: The wait should be about thirty minutes.",
+      "blanks": [
+        "How",
+        "long",
+        "do",
+        "we",
+        "have",
+        "to",
+        "wait",
+        "The",
+        "wait",
+        "should",
+        "be",
+        "about"
+      ],
+      "japanese": "A: 二人のテーブルはどれくらい待ちますか？ B: 待ち時間は30分ほどになります。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 67",
+        "excerpt": "A: (Are) (all) (the) (attendants) in the conference room? B: Yes, (everyone) (but) (the) (president)."
+      }
+    },
+    {
+      "id": 168,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ the new neighborhood? B: ______ ______ ______ ______, ______ ______ ______ ______ ______ ______ ______ ______ yet.",
+      "answer_text": "A: Are you starting to get used to the new neighborhood? B: It is getting better, but I do not know everyone around here yet.",
+      "blanks": [
+        "Are",
+        "you",
+        "starting",
+        "to",
+        "get",
+        "used",
+        "to",
+        "It",
+        "is",
+        "getting",
+        "better",
+        "but",
+        "I",
+        "do",
+        "not",
+        "know",
+        "everyone",
+        "around",
+        "here"
+      ],
+      "japanese": "A: 新しい近所には慣れてきた？ B: 少しずつよくなってきてるけど、まだこの辺の人みんなを知ってるわけじゃないしね。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 68",
+        "excerpt": "A: You are looking (awfully) (healthy) (lately). B: I have been (on) (a) (diet), (and) (I) (started) (jogging) last week."
+      }
+    },
+    {
+      "id": 169,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ ______ lately? B: ______ ______ ______ ______ ______ ______ ______ twice a week.",
+      "answer_text": "A: Have you been keeping up with your exercise lately? B: I have been going to the pool twice a week.",
+      "blanks": [
+        "Have",
+        "you",
+        "been",
+        "keeping",
+        "up",
+        "with",
+        "your",
+        "exercise",
+        "I",
+        "have",
+        "been",
+        "going",
+        "to",
+        "the",
+        "pool"
+      ],
+      "japanese": "A: 最近ちゃんと運動続けてる？ B: 週に二回プールに通ってるよ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 68",
+        "excerpt": "A: You are looking (awfully) (healthy) (lately). B: I have been (on) (a) (diet), (and) (I) (started) (jogging) last week."
+      }
+    },
+    {
+      "id": 170,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ ______ tonight? B: ______ ______ ______ ______, ______ ______ ______ ______ ______ ______ ______ ______ tomorrow.",
+      "answer_text": "A: Is there anything good playing at the theater tonight? B: There might be something, but the main feature does not start until tomorrow.",
+      "blanks": [
+        "Is",
+        "there",
+        "anything",
+        "good",
+        "playing",
+        "at",
+        "the",
+        "theater",
+        "There",
+        "might",
+        "be",
+        "something",
+        "but",
+        "the",
+        "main",
+        "feature",
+        "does",
+        "not",
+        "start",
+        "until"
+      ],
+      "japanese": "A: 今夜映画館で何かいい作品やってる？ B: 何かあるかもしれないけど、メインの作品は明日から始まるんだ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 69",
+        "excerpt": "A: I'd like (two) (tickets) (for) (the) (two) (o'clock) (show). B: I am afraid (all) (the) (shows) (for) (today) (have) (been) (sold) (out)."
+      }
+    },
+    {
+      "id": 171,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ the new system? B: ______ ______ ______ ______ ______ ______ ______ smoothly so far.",
+      "answer_text": "A: How is everyone adjusting to the new system? B: Most people seem to be handling it smoothly so far.",
+      "blanks": [
+        "How",
+        "is",
+        "everyone",
+        "adjusting",
+        "to",
+        "Most",
+        "people",
+        "seem",
+        "to",
+        "be",
+        "handling",
+        "it"
+      ],
+      "japanese": "A: みんな新しいシステムへの切り替えはうまくいってる？ B: 今のところほとんどの人がうまくこなしているみたいだよ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 70",
+        "excerpt": "A: You are (putting) (off) your trip again, aren't you? B: I'm afraid (I) (have) (no) (choice)."
+      }
+    },
+    {
+      "id": 172,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______? B: ______ ______ ______ ______ ______ ______ ______ with my old college friends.",
+      "answer_text": "A: Did anything interesting happen over the weekend? B: I ended up having a great reunion with my old college friends.",
+      "blanks": [
+        "Did",
+        "anything",
+        "interesting",
+        "happen",
+        "over",
+        "the",
+        "weekend",
+        "I",
+        "ended",
+        "up",
+        "having",
+        "a",
+        "great",
+        "reunion"
+      ],
+      "japanese": "A: 週末は何か面白いことあった？ B: 大学時代の古い友人たちと素晴らしい再会をしたよ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 71",
+        "excerpt": "A: Excuse me, (could) (you) (direct) (me) to (the) (nearest) (men's) (room)? B: The rest rooms (are) (located) on the second floor."
+      }
+    },
+    {
+      "id": 173,
+      "level": "level3",
+      "question_text": "A: ______ the ______ ______ ______ ______ ______ ______ budget? B: ______ ______ ______ ______ ______, it needs ______ ______ ______ ______ ______ ______.",
+      "answer_text": "A: Has the manager already signed off on the budget? B: I do not think so, it needs to be reviewed one more time.",
+      "blanks": [
+        "Has",
+        "manager",
+        "already",
+        "signed",
+        "off",
+        "on",
+        "the",
+        "I",
+        "do",
+        "not",
+        "think",
+        "so",
+        "to",
+        "be",
+        "reviewed",
+        "one",
+        "more",
+        "time"
+      ],
+      "japanese": "A: マネージャーはもう予算にサインしたの？ B: そうは思わないな、もう一度見直す必要があるはずだよ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 72",
+        "excerpt": "A: Have you finished (writing) (those) (reports) yet? B: (They) (are) (almost) (done)."
+      }
+    },
+    {
+      "id": 174,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ the store? B: ______ ______ ______ ______, ______ ______ should be open.",
+      "answer_text": "A: Do you know what time they close the store? B: I am not certain, but it should be open.",
+      "blanks": [
+        "Do",
+        "you",
+        "know",
+        "what",
+        "time",
+        "they",
+        "close",
+        "I",
+        "am",
+        "not",
+        "certain",
+        "but",
+        "it"
+      ],
+      "japanese": "A: その店が何時に閉まるか知ってる？ B: はっきりはわからないけど、まだ開いてるはずだよ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 73",
+        "excerpt": "A: (What) (shall) (we) (do) (about) lunch? B: Let's go (somewhere) (and) (eat) Mexican food."
+      }
+    },
+    {
+      "id": 175,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ the new ______ ______ B: ______ ______ ______, ______ it takes a ______ of getting used to.",
+      "answer_text": "A: Have you figured out how to use the new coffee machine? B: More or less, but it takes a bit of getting used to.",
+      "blanks": [
+        "Have",
+        "you",
+        "figured",
+        "out",
+        "how",
+        "to",
+        "use",
+        "coffee",
+        "machine",
+        "More",
+        "or",
+        "less",
+        "but",
+        "bit"
+      ],
+      "japanese": "A: 新しいコーヒーマシンの使い方わかった？ B: だいたいはわかったけど、ちょっと慣れが必要だね。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 74",
+        "excerpt": "A: (Did) (you) (hear) (about) (that) (terrible) accident? B: (I) (read) (about) (it) (in) the newspaper."
+      }
+    },
+    {
+      "id": 176,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ on ______ ______ ______ B: ______, ______ ______ me ______ ______ you ______, ______ ______ ______ a few things.",
+      "answer_text": "A: Could you stop by the supermarket on your way home? B: Sure, just let me know what you need, I will grab a few things.",
+      "blanks": [
+        "Could",
+        "you",
+        "stop",
+        "by",
+        "the",
+        "supermarket",
+        "your",
+        "way",
+        "home",
+        "Sure",
+        "just",
+        "let",
+        "know",
+        "what",
+        "need",
+        "I",
+        "will",
+        "grab"
+      ],
+      "japanese": "A: 帰りにスーパーに寄ってもらえる？ B: もちろん、何が必要か教えて、いくつか買ってくるよ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 75",
+        "excerpt": "A: (How) (many) (stops) (is) (it) to Shinjuku Station? B: I think (the) (station) (after) (this)."
+      }
+    },
+    {
+      "id": 177,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ ______ this summer? B: ______ ______ ______ ______ ______ ______ ______ somewhere by the sea.",
+      "answer_text": "A: Have you made any plans to travel abroad this summer? B: We are thinking about renting a cottage somewhere by the sea.",
+      "blanks": [
+        "Have",
+        "you",
+        "made",
+        "any",
+        "plans",
+        "to",
+        "travel",
+        "abroad",
+        "We",
+        "are",
+        "thinking",
+        "about",
+        "renting",
+        "a",
+        "cottage"
+      ],
+      "japanese": "A: 今年の夏は海外旅行の計画はある？ B: 海辺のどこかでコテージを借りることを考えてるんだ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 76",
+        "excerpt": "A: (Haven't) (we) (met) (somewhere) before? B: (Perhaps) (at) (the) (conference) last year."
+      }
+    },
+    {
+      "id": 178,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ ______ ______ ______ night? B: ______ ______ ______ ______, ______ ______ ______ a ______ ______ ______ the ending.",
+      "answer_text": "A: What did you think of the documentary you watched last night? B: It was quite moving, but I was a little confused by the ending.",
+      "blanks": [
+        "What",
+        "did",
+        "you",
+        "think",
+        "of",
+        "the",
+        "documentary",
+        "you",
+        "watched",
+        "last",
+        "It",
+        "was",
+        "quite",
+        "moving",
+        "but",
+        "I",
+        "was",
+        "little",
+        "confused",
+        "by"
+      ],
+      "japanese": "A: 昨夜見たドキュメンタリーはどうだった？ B: かなり感動的だったけど、結末がちょっとわかりにくかった。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 77",
+        "excerpt": "A: Don't you get tired (of) (always) (being) (on) (the) (road)? B: (Not) (at) (all). I like (traveling)."
+      }
+    },
+    {
+      "id": 179,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ ______ ______ ______ ______ the apartment? B: ______ ______ ______ ______ ______ ______ ______ ______ the end of the month.",
+      "answer_text": "A: When do you think you will be able to move into the apartment? B: I am hoping to get everything sorted by the end of the month.",
+      "blanks": [
+        "When",
+        "do",
+        "you",
+        "think",
+        "you",
+        "will",
+        "be",
+        "able",
+        "to",
+        "move",
+        "into",
+        "I",
+        "am",
+        "hoping",
+        "to",
+        "get",
+        "everything",
+        "sorted",
+        "by"
+      ],
+      "japanese": "A: そのアパートにはいつ入居できそう？ B: 今月末までに全部整えたいと思ってるんだ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 78",
+        "excerpt": "A: How long (will) (you) (be) (using) (the) (car)? B: I'd like (to) (keep) (it) (until) (the) (end) (of) (this) (month)."
+      }
+    },
+    {
+      "id": 180,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ the project meeting? B: ______ ______ ______ ______ ______ ______, ______ ______ ______ ______ ______ ______ the schedule.",
+      "answer_text": "A: Is everyone ready to get started with the project meeting? B: Almost all of us are here, but we still need to confirm the schedule.",
+      "blanks": [
+        "Is",
+        "everyone",
+        "ready",
+        "to",
+        "get",
+        "started",
+        "with",
+        "Almost",
+        "all",
+        "of",
+        "us",
+        "are",
+        "here",
+        "but",
+        "we",
+        "still",
+        "need",
+        "to",
+        "confirm"
+      ],
+      "japanese": "A: プロジェクト会議を始める準備はみんなできてる？ B: ほぼ全員揃ってるんだけど、スケジュールを確認する必要がまだあるんだ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 79",
+        "excerpt": "A: (Did) (you) (get) (a) (chance) (to) (look) (over) my report? B: I (meant) (to), but (there) (just) (hasn't) (been) any time."
+      }
+    },
+    {
+      "id": 181,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ the weekend? B: ______ ______ ______ ______ ______ camping with some friends.",
+      "answer_text": "A: Do you have any plans for the weekend? B: I am thinking about going camping with some friends.",
+      "blanks": [
+        "Do",
+        "you",
+        "have",
+        "any",
+        "plans",
+        "for",
+        "I",
+        "am",
+        "thinking",
+        "about",
+        "going"
+      ],
+      "japanese": "A: 週末は何か予定ある？ B: 友達と何人かでキャンプに行こうかなって思ってるんだ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 62",
+        "excerpt": "A: (Will) (you) (call) (me) (on) Thursday? B: I will be (out) (of) (town) (that) (day)."
+      }
+    },
+    {
+      "id": 182,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ the afternoon off? B: ______, ______ ______ ______ ______ ______ ______ ______ ______.",
+      "answer_text": "A: Would it be all right to take the afternoon off? B: Sure, as long as you finish your work first.",
+      "blanks": [
+        "Would",
+        "it",
+        "be",
+        "all",
+        "right",
+        "to",
+        "take",
+        "Sure",
+        "as",
+        "long",
+        "as",
+        "you",
+        "finish",
+        "your",
+        "work",
+        "first"
+      ],
+      "japanese": "A: 午後を休んでもいいですか？ B: もちろん、先に仕事を終わらせる限りはね。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 63",
+        "excerpt": "A: Would you mind (passing) (the) (salt) (and) (pepper)? B: (Here) (you) (are)."
+      }
+    },
+    {
+      "id": 183,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ the game last night? B: ______ ______ ______ ______ ______ until the very end.",
+      "answer_text": "A: Did you manage to watch the game last night? B: I stayed up for it until the very end.",
+      "blanks": [
+        "Did",
+        "you",
+        "manage",
+        "to",
+        "watch",
+        "I",
+        "stayed",
+        "up",
+        "for",
+        "it"
+      ],
+      "japanese": "A: 昨夜の試合は見られた？ B: 最後まで起きて見たよ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 64",
+        "excerpt": "A: (Why) (don't) (we) (drive) (out) to the ocean? B: (Sounds) (like) a good idea (to) (me)."
+      }
+    },
+    {
+      "id": 184,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ for the ______ trip? B: ______ ______ ______, but ______ ______ ______ a ______ ______ ______ ______ ______ yet.",
+      "answer_text": "A: Have you packed everything you need for the company trip? B: Most of it, but I still have a few things to sort out yet.",
+      "blanks": [
+        "Have",
+        "you",
+        "packed",
+        "everything",
+        "you",
+        "need",
+        "company",
+        "Most",
+        "of",
+        "it",
+        "I",
+        "still",
+        "have",
+        "few",
+        "things",
+        "to",
+        "sort",
+        "out"
+      ],
+      "japanese": "A: 社員旅行の準備は全部できた？ B: だいたいはできたけど、まだ片付けることがいくつかあるんだ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 65",
+        "excerpt": "A: (Can) (I) (offer) (you) (a) (hand) (with) this suitcase? B: (I) (can) (manage) (by) (myself), thank you."
+      }
+    },
+    {
+      "id": 185,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ about the new branch opening? B: ______ ______ it ______ ______ ______ ______ next spring.",
+      "answer_text": "A: Have you heard anything about the new branch opening? B: I believe it is scheduled to open next spring.",
+      "blanks": [
+        "Have",
+        "you",
+        "heard",
+        "anything",
+        "I",
+        "believe",
+        "is",
+        "scheduled",
+        "to",
+        "open"
+      ],
+      "japanese": "A: 新しい支店のオープンについて何か聞いた？ B: 来春にオープンする予定だと思うよ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 66",
+        "excerpt": "A: (Have) (you) (ever) (visited) France? B: No, (but) (I) (hope) (to) (go) (there) (soon)."
+      }
+    },
+    {
+      "id": 186,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ ______? B: ______ ______ ______ ______, ______ ______ ______ ______ ______ ______ it.",
+      "answer_text": "A: Is there anyone available for the morning shift? B: I am not sure, but I will ask around about it.",
+      "blanks": [
+        "Is",
+        "there",
+        "anyone",
+        "available",
+        "for",
+        "the",
+        "morning",
+        "shift",
+        "I",
+        "am",
+        "not",
+        "sure",
+        "but",
+        "I",
+        "will",
+        "ask",
+        "around",
+        "about"
+      ],
+      "japanese": "A: 朝のシフトに入れる人はいる？ B: わからないけど、聞いて回ってみるよ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 67",
+        "excerpt": "A: (What) (do) (you) (have) in your pockets? B: Just (my) (car) (keys) (and) (my) (wallet)."
+      }
+    },
+    {
+      "id": 187,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ the neighborhood lately. B: ______ ______ ______ ______ ______ ______, and ______ ______ ______ ______ ______ last month.",
+      "answer_text": "A: You are looking really happy with the neighborhood lately. B: I have been really enjoying it, and I finally met my neighbors last month.",
+      "blanks": [
+        "You",
+        "are",
+        "looking",
+        "really",
+        "happy",
+        "with",
+        "I",
+        "have",
+        "been",
+        "really",
+        "enjoying",
+        "it",
+        "I",
+        "finally",
+        "met",
+        "my",
+        "neighbors"
+      ],
+      "japanese": "A: 最近、近所をとても気に入ってるみたいだね。 B: 本当に気に入ってるんだ。それに先月やっと隣人たちと会えたよ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 68",
+        "excerpt": "A: You are looking (awfully) (healthy) (lately). B: I have been (on) (a) (diet), (and) (I) (started) (jogging) last week."
+      }
+    },
+    {
+      "id": 188,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ ______ ______ tonight. B: It sounds ______, but ______ ______ ______ ______ another time.",
+      "answer_text": "A: I would like to invite you over for dinner tonight. B: It sounds wonderful, but could we make it another time.",
+      "blanks": [
+        "I",
+        "would",
+        "like",
+        "to",
+        "invite",
+        "you",
+        "over",
+        "for",
+        "dinner",
+        "wonderful",
+        "could",
+        "we",
+        "make",
+        "it"
+      ],
+      "japanese": "A: 今夜ディナーに招待したいんだけど。 B: すごく嬉しいけど、また別の機会にできるかな。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 69",
+        "excerpt": "A: Would you like (a) (piece) (of) (cheesecake) (for) (dessert)? B: It sounds (tempting), but (I) (think) (I'll) (pass)."
+      }
+    },
+    {
+      "id": 189,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______, aren't you? B: ______ ______ ______ ______ ______ ______ ______ ______.",
+      "answer_text": "A: You are working overtime again, aren't you? B: I am afraid I have no way out.",
+      "blanks": [
+        "You",
+        "are",
+        "working",
+        "overtime",
+        "again",
+        "I",
+        "am",
+        "afraid",
+        "I",
+        "have",
+        "no",
+        "way",
+        "out"
+      ],
+      "japanese": "A: また残業してるんでしょ？ B: 残念ながら、避けられないんだよ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 70",
+        "excerpt": "A: You are (putting) (off) your trip again, aren't you? B: I'm afraid (I) (have) (no) (choice)."
+      }
+    },
+    {
+      "id": 190,
+      "level": "level3",
+      "question_text": "A: Excuse me, ______ ______ ______ ______ to ______ ______ ______ ______ ? B: The information desk ______ ______ on the ground floor ______ ______ ______ ______ ______.",
+      "answer_text": "A: Excuse me, could you point me to the nearest information desk? B: The information desk is located on the ground floor just past the main entrance.",
+      "blanks": [
+        "could",
+        "you",
+        "point",
+        "me",
+        "the",
+        "nearest",
+        "information",
+        "desk",
+        "is",
+        "located",
+        "just",
+        "past",
+        "the",
+        "main",
+        "entrance"
+      ],
+      "japanese": "A: すみません、一番近い案内デスクへの行き方を教えていただけますか？ B: 案内デスクは1階のメインエントランスを過ぎたすぐのところにございます。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 71",
+        "excerpt": "A: Excuse me, (could) (you) (direct) (me) to (the) (nearest) (men's) (room)? B: The rest rooms (are) (located) on the second floor (just) (to) (the) (right) (of) (the) (elevator)."
+      }
+    },
+    {
+      "id": 191,
+      "level": "level3",
+      "question_text": "A: Have you finished ______ ______ ______ ______ yet? B: ______ ______ ______ ______.",
+      "answer_text": "A: Have you finished sorting through those emails yet? B: Just about nearly done.",
+      "blanks": [
+        "sorting",
+        "through",
+        "those",
+        "emails",
+        "Just",
+        "about",
+        "nearly",
+        "done"
+      ],
+      "japanese": "A: もうあのメールを整理し終わった？ B: もうほぼ終わったよ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 72",
+        "excerpt": "A: Have you finished (writing) (those) (reports) yet? B: (They) (are) (almost) (done)."
+      }
+    },
+    {
+      "id": 192,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ ______ B: ______ ______, ______ ______ ______ to ______ it ______ ______ tonight.",
+      "answer_text": "A: Why don't you take care of it tomorrow? B: I wish, but I promised to hand it in by tonight.",
+      "blanks": [
+        "Why",
+        "don't",
+        "you",
+        "take",
+        "care",
+        "of",
+        "it",
+        "tomorrow",
+        "I",
+        "wish",
+        "but",
+        "I",
+        "promised",
+        "hand",
+        "in",
+        "by"
+      ],
+      "japanese": "A: それは明日やったらどう？ B: そうしたいんだけど、今夜までに提出するって約束しちゃったから。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 72",
+        "excerpt": "A: (Why) (don't) (you) (work) (on) (it) tomorrow? B: I wish, (but) (I) (promised) (to) (finish) (it) (by) three o'clock this afternoon."
+      }
+    },
+    {
+      "id": 193,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ ______ ______? B: ______ ______ ______ ______ ______ ______ ______.",
+      "answer_text": "A: Shall I pass along your message to the manager? B: Just tell her I will call back.",
+      "blanks": [
+        "Shall",
+        "I",
+        "pass",
+        "along",
+        "your",
+        "message",
+        "to",
+        "the",
+        "manager",
+        "Just",
+        "tell",
+        "her",
+        "I",
+        "will",
+        "call",
+        "back"
+      ],
+      "japanese": "A: マネージャーにメッセージをお伝えしましょうか？ B: 折り返し電話するとだけ伝えてください。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 73",
+        "excerpt": "A: (May) (I) (give) Mr. Kato (your) (message)? B: (Just) (tell) (him) (I) (called)."
+      }
+    },
+    {
+      "id": 194,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ for the ______ B: ______ ______ ______ ______ in ______ ______ ______ French cuisine.",
+      "answer_text": "A: What shall we arrange about lunch for the meeting? B: Let us order something in and get some French cuisine.",
+      "blanks": [
+        "What",
+        "shall",
+        "we",
+        "arrange",
+        "about",
+        "lunch",
+        "meeting",
+        "Let",
+        "us",
+        "order",
+        "something",
+        "and",
+        "get",
+        "some"
+      ],
+      "japanese": "A: 会議のランチはどうしようか？ B: デリバリーを頼んで、フランス料理にしようよ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 73",
+        "excerpt": "A: (What) (shall) (we) (do) (about) lunch? B: Let's go (somewhere) (and) (eat) Mexican food."
+      }
+    },
+    {
+      "id": 195,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ the road closure? B: ______ ______ ______ ______ ______ the traffic report.",
+      "answer_text": "A: Did you find out anything about the road closure? B: I came across it in the traffic report.",
+      "blanks": [
+        "Did",
+        "you",
+        "find",
+        "out",
+        "anything",
+        "about",
+        "I",
+        "came",
+        "across",
+        "it",
+        "in"
+      ],
+      "japanese": "A: 道路封鎖について何か分かった？ B: 交通情報で見かけたよ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 74",
+        "excerpt": "A: (Did) (you) (hear) (about) (that) (terrible) accident? B: (I) (read) (about) (it) (in) the newspaper."
+      }
+    },
+    {
+      "id": 196,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ to the stadium? B: I think ______ ______ ______ ______ ______ ______.",
+      "answer_text": "A: How many stops is it to the stadium? B: I think it is about three more stops.",
+      "blanks": [
+        "How",
+        "many",
+        "stops",
+        "is",
+        "it",
+        "it",
+        "is",
+        "about",
+        "three",
+        "more",
+        "stops"
+      ],
+      "japanese": "A: スタジアムまであと何駅ですか？ B: あと3駅くらいだと思います。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 75",
+        "excerpt": "A: (How) (many) (stops) (is) (it) to Shinjuku Station? B: I think (the) (station) (after) (this)."
+      }
+    },
+    {
+      "id": 197,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ ______ somewhere before? B: ______ ______ ______ ______ a seminar last summer.",
+      "answer_text": "A: Have we not run into each other somewhere before? B: Perhaps we met at a seminar last summer.",
+      "blanks": [
+        "Have",
+        "we",
+        "not",
+        "run",
+        "into",
+        "each",
+        "other",
+        "Perhaps",
+        "we",
+        "met",
+        "at"
+      ],
+      "japanese": "A: 以前どこかでお会いしませんでしたか？ B: 去年の夏のセミナーかもしれませんね。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 76",
+        "excerpt": "A: (Haven't) (we) (met) (somewhere) before? B: (Perhaps) (at) (the) (conference) last year."
+      }
+    },
+    {
+      "id": 198,
+      "level": "level3",
+      "question_text": "A: Don't you get tired ______ ______ ______ ______ ______ ______? B: ______ ______ ______. I enjoy ______ and ______ ______ ______ ______, I meet a lot of interesting people.",
+      "answer_text": "A: Don't you get tired of always being away from home? B: Not at all. I enjoy it and thanks to the work, I meet a lot of interesting people.",
+      "blanks": [
+        "of",
+        "always",
+        "being",
+        "away",
+        "from",
+        "home",
+        "Not",
+        "at",
+        "all",
+        "it",
+        "thanks",
+        "to",
+        "the",
+        "work"
+      ],
+      "japanese": "A: いつも家を離れていて、うんざりしない？ B: 全然しないよ。楽しんでるし、仕事のおかげで面白い人たちにたくさん会えるから。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 77",
+        "excerpt": "A: Don't you get tired (of) (always) (being) (on) (the) (road)? B: (Not) (at) (all). I like (traveling) and (thanks) (to) (the) (job), I get to see many places."
+      }
+    },
+    {
+      "id": 199,
+      "level": "level3",
+      "question_text": "A: How long ______ ______ ______ ______ ______ ______ ______? B: ______ ______ ______ ______ ______ ______ ______ ______ ______.",
+      "answer_text": "A: How long will you be staying at the hotel? B: I would like to keep the room until Sunday.",
+      "blanks": [
+        "will",
+        "you",
+        "be",
+        "staying",
+        "at",
+        "the",
+        "hotel",
+        "I",
+        "would",
+        "like",
+        "to",
+        "keep",
+        "the",
+        "room",
+        "until",
+        "Sunday"
+      ],
+      "japanese": "A: ホテルにはどれくらい滞在されますか？ B: 日曜日まで部屋を使いたいのですが。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 78",
+        "excerpt": "A: How long (will) (you) (be) (using) (the) (car)? B: I'd like (to) (keep) (it) (until) (the) (end) (of) (this) (month)."
+      }
+    },
+    {
+      "id": 200,
+      "level": "level3",
+      "question_text": "A: ______ ______ ______ ______ ______ ______ go over the budget? B: I ______ to, but ______ ______ ______ ______ ______ any time this week.",
+      "answer_text": "A: Did you get a chance to go over the budget? B: I wanted to, but there just has not been any time this week.",
+      "blanks": [
+        "Did",
+        "you",
+        "get",
+        "a",
+        "chance",
+        "to",
+        "wanted",
+        "there",
+        "just",
+        "has",
+        "not",
+        "been"
+      ],
+      "japanese": "A: 予算を見直す機会はあった？ B: そうしたかったんだけど、今週はまったく時間がなかったんだ。",
+      "pattern": "",
+      "explanation": "",
+      "source": {
+        "textbook": "textbook2/level3_上級.md",
+        "section": "### Track 79",
+        "excerpt": "A: (Did) (you) (get) (a) (chance) (to) (look) (over) my report? B: I (meant) (to), but (there) (just) (hasn't) (been) any time."
+      }
+    }
+  ]
+}

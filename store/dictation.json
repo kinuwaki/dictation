@@ -1,0 +1,68 @@
+{
+  "_comment": "英語ディクテーション App Store Connect 登録設定",
+  "app": {
+    "name": "英語ディクテーション",
+    "bundleId": "jp.dictation.learning",
+    "sku": "dictation",
+    "primaryLocale": "ja",
+    "contentRightsDeclaration": "DOES_NOT_USE_THIRD_PARTY_CONTENT"
+  },
+  "appInfo": {
+    "primaryCategory": "EDUCATION",
+    "appStoreAgeRating": "FOUR_PLUS",
+    "brazilAgeRating": "L",
+    "kidsAgeBand": null
+  },
+  "appInfoLocalizations": [
+    {
+      "locale": "ja",
+      "name": "英語ディクテーション",
+      "subtitle": "聞いて書く英語リスニング練習アプリ",
+      "privacyPolicyUrl": "http://ktwvai.sakura.ne.jp/app/dictation/#privacy-policy"
+    }
+  ],
+  "version": {
+    "versionString": "1.0.0",
+    "copyright": "2026 ktwvai Inc.",
+    "releaseType": "AFTER_APPROVAL",
+    "reviewType": "APP_STORE"
+  },
+  "versionLocalizations": [
+    {
+      "locale": "ja",
+      "description": "英語ディクテーション｜1,000問の英文リスニング書き取りで英語力を鍛える！\n\nネイティブ音声を聞いて英文を書き取る、本格的な英語ディクテーション学習アプリ。\n初級・中級・上級の3レベル、合計1,000問を収録。日常会話から対話形式まで、実践的な英文で確実にリスニング力を向上させます。\n\n◆ このアプリでできること\n\n1. 合計1,000問のディクテーション問題\n\nネイティブスピーカーによる自然な英語音声を聞き、英文を書き取り。\n初級（Level 1）・中級（Level 2）・上級（Level 3）の3段階で、自分のレベルに合った学習ができます。\n\n【Level 1：初級】基本的な日常英会話フレーズ\n【Level 2：中級】やや長めの実用英文\n【Level 3：上級】対話形式の実践英会話\n\n2. 即座にフィードバック\n\n回答後すぐに単語レベルで差分を表示。\n正解部分は緑、間違い・不足部分は赤で色分け表示され、どこを聞き取れなかったかが一目でわかります。\n\n3. 再生速度切替\n\n通常速度とゆっくり速度（0.7倍）を切替可能。\n聞き取れなかった部分を何度でも繰り返し再生できます。\n\n4. テストモードで実力チェック\n\nレベル別に10問・20問・30問コースを搭載。\n制限時間付きで本番さながらの実力テストができます。\n\n5. 復習モードで弱点克服\n\n間違えた問題を自動保存。\n苦手な英文を重点的に繰り返し練習できます。\n\n6. やる気が続くカードガチャ機能\n\nテストクリアでカードを獲得。\n楽しみながら学習を継続できます。\n\n7. 毎日の学習リマインダー\n\n毎朝の通知で学習習慣をサポート。\n\n◆ こんな方におすすめ\n\n・英語のリスニング力を本気で伸ばしたい方\n・TOEICや英検のリスニング対策をしたい方\n・ディクテーション学習法に興味がある方\n・ネイティブの自然な英語を聞き取れるようになりたい方\n・通勤・通学のスキマ時間に英語学習したい方\n・英語の聞き取りが苦手で克服したい方\n\nディクテーションは「聞いて書く」というシンプルな学習法ですが、リスニング・スペリング・文法力を同時に鍛えられる最も効果的な英語学習法のひとつです。",
+      "keywords": "ディクテーション,英語,リスニング,英語学習,聞き取り,TOEIC,英検,英会話,書き取り,発音",
+      "whatsNew": "初回リリース",
+      "promotionalText": null,
+      "marketingUrl": null,
+      "supportUrl": "http://ktwvai.sakura.ne.jp/app/dictation/"
+    }
+  ],
+  "inAppPurchases": [
+    {
+      "name": "DictationUnlock",
+      "productId": "jp.dictation.learning.pro",
+      "type": "NON_CONSUMABLE",
+      "reviewNote": "すべてのレベルの問題演習・テストモード・カードガチャ等、全機能が利用可能になります。",
+      "localizations": [
+        {
+          "locale": "ja",
+          "name": "フルアクセス解除",
+          "description": "すべてのレベルの問題演習・テスト・カードガチャ等、全機能が利用可能になります。"
+        }
+      ]
+    }
+  ],
+  "iapPrice": 600,
+  "screenshotDir": "screenshot",
+  "reviewDetail": {
+    "contactFirstName": "SHINICHI",
+    "contactLastName": "KINUWAKI",
+    "contactEmail": "ShinichiKinuwaki@gmail.com",
+    "contactPhone": "+817026122437",
+    "demoAccountName": null,
+    "demoAccountPassword": null,
+    "demoAccountRequired": false,
+    "notes": null
+  }
+}

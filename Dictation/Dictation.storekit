@@ -1,0 +1,85 @@
+{
+  "identifier" : "",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "600",
+      "familyShareable" : false,
+      "internalID" : "1",
+      "localizations" : [
+        {
+          "description" : "すべてのレベル・テスト・カードコレクションが利用可能になります",
+          "displayName" : "フルアクセス解除",
+          "locale" : "ja"
+        }
+      ],
+      "productID" : "jp.dictation.learning.pro",
+      "referenceName" : "フルアクセス解除",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+    "_applicationInternalID" : "",
+    "_developerTeamID" : "WS9392R3N8",
+    "_failTransactionsEnabled" : false,
+    "_lastVerificationError" : "",
+    "_locale" : "ja",
+    "_storefront" : "JPN",
+    "_storeKitErrors" : [
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Load Products"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Purchase"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Verification"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "App Store Sync"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Subscription Status"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "App Transaction"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Manage Subscriptions Sheet"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Refund Request Sheet"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Offer Code Redeem Sheet"
+      }
+    ]
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 4,
+    "minor" : 0
+  }
+}

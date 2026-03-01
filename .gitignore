@@ -1,0 +1,18 @@
+# Xcode
+xcuserdata/
+DerivedData/
+build/output/
+!build/config/
+
+# macOS
+.DS_Store
+*.swp
+*~
+
+# Material (source data, large)
+material/
+
+# Audio & binary assets are tracked by Git LFS (see .gitattributes)
+
+# Store scripts (contains no secrets but not needed in app repo)
+store/fix_iap.py
