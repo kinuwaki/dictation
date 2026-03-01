@@ -16,3 +16,11 @@ material/
 
 # Store scripts (contains no secrets but not needed in app repo)
 store/fix_iap.py
+
+# Generated Xcode project (use xcodegen to regenerate)
+Dictation.xcodeproj/
+
+# Utility scripts (not part of the app)
+fix_blanks*.py
+generate_tts.py
+setup_lfs.sh
