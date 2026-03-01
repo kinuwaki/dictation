@@ -80,7 +80,7 @@ struct DictationResultView: View {
         .navigationBarTitleDisplayMode(.inline)
         .navigationBarBackButtonHidden(true)
         .fullScreenCover(isPresented: $showGacha) {
-            CardGachaScreen(cardCount: gachaCardCount) {
+            CardGachaScreen(cardCount: gachaCardCount, sourceLevel: allItems.first?.level ?? "level1") {
                 showGacha = false
                 onDismiss()
             }

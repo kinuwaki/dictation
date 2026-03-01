@@ -7,6 +7,7 @@ struct GachaCard: Identifiable, Codable, Hashable {
     let filename: String
     let title: String
     let category: String
+    let grade: String       // "共通" / "初級" / "中級" / "上級"
 }
 
 // MARK: - GachaCardLoader
@@ -22,6 +23,12 @@ final class GachaCardLoader {
         let loaded = load()
         _cards = loaded
         return loaded
+    }
+
+    /// sourceLevel に対応する共通＋級別カードを返す
+    func cards(forLevel sourceLevel: String) -> [GachaCard] {
+        let grade = AppConfig.cardGrade(for: sourceLevel)
+        return allCards.filter { $0.grade == AppConfig.cardCategoryCommon || $0.grade == grade }
     }
 
     private func load() -> [GachaCard] {
@@ -41,13 +48,14 @@ final class GachaCardLoader {
 
         return lines.dropFirst().compactMap { line -> GachaCard? in
             let cols = line.components(separatedBy: ",")
-            guard cols.count >= 4 else { return nil }
+            guard cols.count >= 5 else { return nil }
             let no       = cols[0].trimmingCharacters(in: .whitespaces)
             let filename = cols[1].trimmingCharacters(in: .whitespaces)
             let title    = cols[2].trimmingCharacters(in: .whitespaces)
             let category = cols[3].trimmingCharacters(in: .whitespaces)
+            let grade    = cols[4].trimmingCharacters(in: .whitespaces)
             guard !no.isEmpty else { return nil }
-            return GachaCard(id: no, filename: filename, title: title, category: category)
+            return GachaCard(id: no, filename: filename, title: title, category: category, grade: grade)
         }
     }
 }

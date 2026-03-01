@@ -151,7 +151,8 @@ final class DictationViewModel: ObservableObject {
             progressStore.update { $0.removeWrong(id: item.id) }
         } else {
             phase = .feedbackWrong
-            SoundManager.shared.play(.wrong)
+            // 8割以上正解ならピンポン（惜しい！）、それ未満ならブザー
+            SoundManager.shared.play(checkResult.accuracy >= 0.80 ? .correct : .wrong)
             progressStore.update { $0.addWrong(id: item.id) }
         }
 

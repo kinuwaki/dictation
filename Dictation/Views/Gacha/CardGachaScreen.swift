@@ -4,6 +4,7 @@ import SwiftUI
 
 struct CardGachaScreen: View {
     let cardCount: Int
+    let sourceLevel: String   // "level1", "level2", "level3"
     let onClose: () -> Void
 
     @State private var drawnCards: [GachaCard] = []
@@ -89,8 +90,8 @@ struct CardGachaScreen: View {
         }
         .onAppear {
             particles = (0..<35).map { _ in SparkleParticle(isLight: true) }
-            let all = GachaCardLoader.shared.allCards
-            drawnCards = OwnedCardsStore.shared.drawAndAdd(from: all, count: cardCount)
+            let pool = GachaCardLoader.shared.cards(forLevel: sourceLevel)
+            drawnCards = OwnedCardsStore.shared.drawAndAdd(from: pool, count: cardCount)
             showNextCard(animated: false)
         }
     }

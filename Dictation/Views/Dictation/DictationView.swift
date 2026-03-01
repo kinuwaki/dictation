@@ -29,13 +29,7 @@ struct DictationView: View {
             }
         }
         .navigationBarBackButtonHidden(true)
-        .toolbar {
-            if vm.isExamMode {
-                ToolbarItem(placement: .navigationBarTrailing) {
-                    QuizTimerBadge(timerText: vm.timerText, isWarning: vm.isTimerWarning)
-                }
-            }
-        }
+        .toolbar {}
         .navigationTitle(navigationTitle)
         .navigationBarTitleDisplayMode(.inline)
         .fullScreenCover(isPresented: $showResult, onDismiss: {

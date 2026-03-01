@@ -7,6 +7,22 @@ struct DictationQuestionCard: View {
     let questionText: String
     let progressText: String
 
+    /// "B:" の手前で改行を入れた表示用テキスト
+    private var displayText: String {
+        // 既に改行が入っていればそのまま
+        if questionText.contains("\nB:") || questionText.contains("\nB：") {
+            return questionText
+        }
+        // " B:" を "\nB:" に置換
+        return questionText
+            .replacingOccurrences(of: " B:", with: "\nB:")
+            .replacingOccurrences(of: " B：", with: "\nB：")
+    }
+
+    private var isDialogue: Bool {
+        questionText.contains("B:") || questionText.contains("B：")
+    }
+
     var body: some View {
         VStack(spacing: 12) {
             // 進捗ラベル
@@ -19,12 +35,12 @@ struct DictationQuestionCard: View {
                 .clipShape(Capsule())
 
             // 穴埋めヒント
-            Text(questionText)
+            Text(displayText)
                 .font(.system(size: 20, weight: .medium))
                 .foregroundStyle(AppColors.textPrimary)
-                .multilineTextAlignment(questionText.contains("B:") ? .leading : .center)
+                .multilineTextAlignment(isDialogue ? .leading : .center)
                 .fixedSize(horizontal: false, vertical: true)
-                .frame(maxWidth: .infinity, alignment: questionText.contains("B:") ? .leading : .center)
+                .frame(maxWidth: .infinity, alignment: isDialogue ? .leading : .center)
                 .padding(.horizontal, 8)
         }
         .padding(20)

@@ -52,6 +52,17 @@ enum AppConfig {
     // MARK: - Card
 
     static let cardAspectRatio: CGFloat = 1024.0 / 1536.0
+    static let cardCategoryCommon = "共通"
+
+    /// sourceLevel ("level1"等) → カードの級名
+    static func cardGrade(for sourceLevel: String) -> String {
+        switch sourceLevel {
+        case "level1": return "初級"
+        case "level2": return "中級"
+        case "level3": return "上級"
+        default:       return cardCategoryCommon
+        }
+    }
 
     // MARK: - Level Data Files
 

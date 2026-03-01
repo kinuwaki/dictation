@@ -73,8 +73,14 @@ struct DictationItem: Identifiable, Codable, Hashable {
 
     /// 対話形式の "B:" の前に改行を挿入する
     private static func formatDialogue(_ text: String) -> String {
-        text.replacingOccurrences(of: " B:", with: "\nB:")
-            .replacingOccurrences(of: " B：", with: "\nB：")
+        // 正規表現で "B:" の前（空白や?/./!の直後）に改行を挿入
+        var result = text
+        if let range = result.range(of: #"\s+B:"#, options: .regularExpression) {
+            result = result.replacingCharacters(in: range, with: "\nB:")
+        } else if let range = result.range(of: #"\s+B："#, options: .regularExpression) {
+            result = result.replacingCharacters(in: range, with: "\nB：")
+        }
+        return result
     }
 
     init(from decoder: Decoder) throws {
