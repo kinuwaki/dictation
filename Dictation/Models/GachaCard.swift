@@ -26,7 +26,7 @@ final class GachaCardLoader {
 
     private func load() -> [GachaCard] {
         guard
-            let url = Bundle.main.url(forResource: "card_list", withExtension: "csv"),
+            let url = Bundle.main.url(forResource: "card_list", withExtension: "csv", subdirectory: "Assets/Cards"),
             let raw = try? String(contentsOf: url, encoding: .utf8)
         else {
             AppLogger.warning("[GachaCardLoader] card_list.csv の読み込みに失敗")

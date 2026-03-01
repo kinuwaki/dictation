@@ -36,7 +36,7 @@ final class DictationDataLoader {
         var allItems: [DictationItem] = []
 
         for filename in levelFiles {
-            guard let url = Bundle.main.url(forResource: filename, withExtension: "json") else {
+            guard let url = Bundle.main.url(forResource: filename, withExtension: "json", subdirectory: "Assets/Dictation") else {
                 AppLogger.warning("[DictationDataLoader] \(filename).json: URLが見つからない")
                 continue
             }

@@ -24,7 +24,9 @@ targets:
       - path: Dictation/Assets.xcassets
         buildPhase: resources
 
+      # カード画像・音声データはフォルダ参照でBundleへ
       - path: Assets
+        type: folder
         buildPhase: resources
 
     settings:

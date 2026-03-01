@@ -18,7 +18,7 @@ final class SoundManager {
     func play(_ sound: Sound) {
         guard UserDefaults.standard.object(forKey: AppConfig.Keys.settingsSound) as? Bool ?? true else { return }
 
-        guard let url = Bundle.main.url(forResource: sound.rawValue, withExtension: "mp3") else {
+        guard let url = Bundle.main.url(forResource: sound.rawValue, withExtension: "mp3", subdirectory: "Assets/Sounds") else {
             AppLogger.warning("[SoundManager] \(sound.rawValue).mp3 が見つかりません")
             return
         }

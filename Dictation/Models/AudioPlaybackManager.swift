@@ -48,7 +48,7 @@ final class AudioPlaybackManager: NSObject, ObservableObject {
         let name = (audioFile as NSString).deletingPathExtension
         let ext = (audioFile as NSString).pathExtension.isEmpty ? "mp3" : (audioFile as NSString).pathExtension
 
-        if let url = Bundle.main.url(forResource: name, withExtension: ext) {
+        if let url = Bundle.main.url(forResource: name, withExtension: ext, subdirectory: "Assets/Audio/Dictation") {
             do {
                 let player = try AVAudioPlayer(contentsOf: url)
                 player.enableRate = true

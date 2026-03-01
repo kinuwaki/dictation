@@ -51,7 +51,7 @@ enum AppConfig {
 
     // MARK: - Card
 
-    static let cardAspectRatio: CGFloat = 900.0 / 1275.0
+    static let cardAspectRatio: CGFloat = 1024.0 / 1536.0
 
     // MARK: - Level Data Files
 
