@@ -21,6 +21,7 @@ store/fix_iap.py
 Dictation.xcodeproj/
 
 # Utility scripts (not part of the app)
-fix_blanks*.py
+fix_blanks_*.py
+fix_blanks2.py
 generate_tts.py
 setup_lfs.sh
